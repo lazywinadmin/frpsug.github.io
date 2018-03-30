@@ -1,7 +1,7 @@
 ---
 layout: page
 title: PowerShell Saturday Paris 2018
-bigimg: \images\headers\paris_header.jpg
+bigimg: "/images/headers/paris_header.jpg"
 ---
 
 Notre événement PowerShell Saturday approche a grand pas!
