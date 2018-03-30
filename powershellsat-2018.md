@@ -1,11 +1,13 @@
 ---
 layout: page
-title: PowerShell Saturday 2018
+title: PowerShell Saturday Paris 2018
 ---
 
-Nous organisons notre prochain PowerShell Saturday le 15 Septembre 2018 a Paris.
+Notre événement PowerShell Saturday approche a grand pas!
 
-We are organizing our next PowerShell Saturday on the 15th of September 2018 in Paris.
+Celui-ci aura lieu a Paris, le 15 Septembre 2018 à partir de 9h00.
+
+Merci à ceux ayant deja soumis une présentation et aux participants pour leur intérêt.
 
 ## Quand / When
 

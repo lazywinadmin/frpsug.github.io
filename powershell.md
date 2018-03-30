@@ -3,13 +3,19 @@ layout: page
 title: PowerShell
 ---
 
-# PowerShell Bloggers
+Voici quelques resources pour apprendre PowerShell
 
-* [Francois-Xavier Cat / Lazywinadmin.com](http://lazywinadmin.github.io)
+## Videos
+
+* [MVA - Introduction à PowerShell Desired State Configuration (DSC)](https://mva.microsoft.com/fr-fr/training-courses/introduction-powershell-desired-state-configuration-dsc-12621?l=cOVAs1BSB_9005192797)
+* [MVA - PowerShell Desired State Configuration (DSC) avancé](https://mva.microsoft.com/fr-fr/training-courses/powershell-desired-state-configuration-dsc-avanc--14348)
+
+## PowerShell Bloggers
+
+* [Francois-Xavier Cat]()
 * [Fabien Dibot]()
 * [Micky Balladelli]()
 * [Stephane Van Gulick]()
-
-## Communaute Francophone
-
-* [PowerShell-Scripting]() - Forum
+* [Emin Atac]()
+* [Gael Colas]()
+* [Arnaud Petitjean]()

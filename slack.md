@@ -3,6 +3,8 @@ layout: page
 title: Slack
 ---
 
-En tout temps, vous pouvez nous rejoindre sur le channel **#french** de [PowerShell.slack.com](https://powershell.slack.com/Slack).
+En tout temps, vous pouvez nous rejoindre sur le channel **#french** sur slack
 
-Un compte est requis, [inscription gratuite ici:](http://slack.poshcode.org/).
+1. Inscrivez-vous sur [http://slack.poshcode.org/](http://slack.poshcode.org/)
+1. Connecter-vous sur [PowerShell.slack.com](https://powershell.slack.com/Slack)
+1. Rejoignez le channel **#french**

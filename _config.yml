@@ -24,9 +24,10 @@ description: La Communauté francophone PowerShell
 # List of links in the navigation bar
 navbar-links:
   Ressources:
-    - PowerShell: "powershell" 
+    - PowerShell: "powershell"
     - Slack: "slack"
     - Logos: "logos"
+    - Contribuer au blog: "contribuerblog"
   Nos meetings:
     - Meetup: "https://www.meetup.com/FrenchPSUG/"
     - Speakers: "speakers"
