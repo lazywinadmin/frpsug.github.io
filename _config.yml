@@ -26,7 +26,7 @@ navbar-links:
   Ressources:
     - PowerShell: "powershell" 
     - Slack: "slack"
-    - Logos: "logo"
+    - Logos: "logos"
   Nos meetings:
     - Meetup: "https://www.meetup.com/FrenchPSUG/"
     - Speakers: "speakers"
