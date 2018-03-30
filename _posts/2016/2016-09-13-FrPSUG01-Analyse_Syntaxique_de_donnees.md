@@ -3,6 +3,7 @@ layout: post
 title: FrPSUG 2016/09/20 - Analyse syntaxique de données avec Microsoft PowerShell
 author: Francois-Xavier Cat
 comments: false
+tags: [Francois-Xavier Cat, Parsing]
 ---
 
 ```

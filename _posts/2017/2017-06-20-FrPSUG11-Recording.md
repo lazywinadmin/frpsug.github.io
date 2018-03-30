@@ -3,6 +3,7 @@ layout: post
 title: 'TDD with Chef, Kitchen and DSC - Recording, Scripts,...'
 author: Francois-Xavier Cat
 comments: true
+tags: [Robb Schiefer, Chef, Test-Kitchen, DSC, TDD]
 ---
 
 Thanks to our presenter <b>Robb Schiefer</b> and all the people who were able to attend today

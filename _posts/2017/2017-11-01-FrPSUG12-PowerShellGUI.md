@@ -3,6 +3,7 @@ layout: post
 title: 2017/11/15 Comment créer des GUI avec PowerShell (Damien Van Robaeys)
 author: Francois-Xavier Cat
 comments: true
+tags: [Damien Van Robaeys, GUI, WPF]
 ---
 
 La prochaine rencontre de notre groupe aura lieu le Mercredi 15 Novembre 2017 à partir de 21h (heure de Paris).

@@ -3,6 +3,7 @@ layout: post
 title: FrPSUG 2017/03/15 PowerShell Release Pipeline
 author: Francois-Xavier Cat
 comments: false
+tags: [Stijn Callebaut, Release Pipeline, VSTS]
 ---
 
 ```

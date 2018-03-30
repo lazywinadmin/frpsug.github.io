@@ -3,6 +3,7 @@ layout: post
 title: FrPSUG 2016/09/20 - Enregistrement, presentation et scripts
 author: Organisateurs
 comments: true
+tags: [Francois-Xavier Cat, Parsing]
 ---
 
 Un énorme merci à tous les participants et organisateurs de ce premier événement.

@@ -3,7 +3,7 @@ layout: post
 title: 2018/03/14 PowerShell et Firewall Sophos (Rest Api) (Olivier Miossec)
 author: Francois-Xavier Cat
 comments: true
-tags: [olivier miossec, sophos firewall]
+tags: [Olivier Miossec, sophos firewall]
 ---
 
 **Update 2018/03/14:** Ajout de l'enregistrement

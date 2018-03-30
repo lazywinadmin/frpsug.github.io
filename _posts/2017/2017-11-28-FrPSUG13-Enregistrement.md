@@ -3,6 +3,7 @@ layout: post
 title: Comment gagner des gigas en quelques secondes ? - Enregistrement, présentation et scripts
 author: Francois-Xavier Cat
 comments: true
+tags: [Emin Atac, Best practices]
 ---
 
 Un énorme merci au présentateur Emin Atac, à tous les participants et organisateurs!!

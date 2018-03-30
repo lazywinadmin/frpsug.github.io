@@ -3,6 +3,7 @@ layout: post
 title: Text User Interface (TUI) - Enregistrement, présentation et scripts
 author: Francois-Xavier Cat
 comments: true
+tags: [Flavien Michaleczek, TUI, GUI]
 ---
 
 Un énorme merci au présentateur Flavien Michaleczek, à tous les participants et organisateurs!!

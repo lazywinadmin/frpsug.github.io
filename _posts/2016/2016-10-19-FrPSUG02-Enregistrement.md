@@ -3,6 +3,7 @@ layout: post
 title: FrPSUG 2016/10/18 - Introduction aux PowerShell Classes - Enregistrement, présentation et scripts
 author: Francois-Xavier Cat
 comments: true
+tags: [Stéphane Van Gulick, Classes]
 ---
 
 Un énorme merci à tous les participants et organisateurs de ce deuxième événement.

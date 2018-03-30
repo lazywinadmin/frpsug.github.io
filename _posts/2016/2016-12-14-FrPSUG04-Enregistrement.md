@@ -3,6 +3,7 @@ layout: post
 title: Pester - Enregistrement, présentation et scripts
 author: Francois-Xavier Cat
 comments: true
+tags: [Fabien Dibot, Pester]
 ---
 
 Un énorme merci au présentateur Fabien Dibot, à tous les participants et aux organisateurs!!

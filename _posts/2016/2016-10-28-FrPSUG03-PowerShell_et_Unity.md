@@ -3,6 +3,7 @@ layout: post
 title: FrPSUG 2016/11/16 - PowerShell et Unity
 author: Francois-Xavier Cat
 comments: false
+tags: [Micky Balladelli, Unity]
 ---
 
 ```

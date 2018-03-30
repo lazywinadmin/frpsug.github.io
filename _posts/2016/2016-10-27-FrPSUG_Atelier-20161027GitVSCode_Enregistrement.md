@@ -3,6 +3,7 @@ layout: post
 title: FrPSUG 2016/10/27 - Atelier sur Git et Visual Studio Code - Enregistrement, présentation et scripts
 author: Francois-Xavier Cat
 comments: true
+tags: [Louis Lejuez, Git]
 ---
 
 Merci à tous les participants et organisateurs de ce premier atelier.

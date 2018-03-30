@@ -3,6 +3,7 @@ layout: post
 title: PowerShell Release Pipeline - Enregistrement, présentation et scripts
 author: Francois-Xavier Cat
 comments: true
+tags: [Stijn Callebaut, Release Pipeline, VSTS]
 ---
 
 Un énorme merci au présentateur Stijn Callebaut, à tous les participants et organisateurs!!

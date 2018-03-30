@@ -3,6 +3,7 @@ layout: post
 title: FrPSUG 2017/01/11 Containers
 author: Francois-Xavier Cat
 comments: false
+tags: [Florent Appointaire, Containers]
 ---
 
 ```

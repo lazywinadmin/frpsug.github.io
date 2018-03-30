@@ -3,6 +3,7 @@ layout: post
 title: Windows Containers - Enregistrement, présentation et scripts
 author: Francois-Xavier Cat
 comments: true
+tags: [Florent Appointaire, Containers]
 ---
 
 Un énorme merci au présentateur Florent Appointaire, à tous les participants et aux organisateurs!!

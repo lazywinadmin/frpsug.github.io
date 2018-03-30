@@ -3,6 +3,7 @@ layout: post
 title: PowerShell Saturday Paris 2017 - Appel aux conférenciers / Call for Speakers
 author: Francois-Xavier Cat
 comments: false
+tags: [FrPSUG, PowerShell Saturday]
 ---
 
 Le mois de Septembre prochain marquera le premier anniversaire de notre groupe d'utilisateurs.

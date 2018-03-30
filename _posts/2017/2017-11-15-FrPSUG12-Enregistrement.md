@@ -3,6 +3,7 @@ layout: post
 title: Comment créer des GUI avec PowerShell - Enregistrement, présentation et scripts
 author: Francois-Xavier Cat
 comments: true
+tags: [Damien Van Robaeys, GUI, WPF]
 ---
 
 Un énorme merci au présentateur Damien Van Robaeys, à tous les participants et organisateurs!!

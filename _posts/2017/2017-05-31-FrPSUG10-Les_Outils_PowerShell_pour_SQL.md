@@ -3,6 +3,7 @@ layout: post
 title: FrPSUG 2017/06/06 Les outils PowerShell pour SQL
 author: Francois-Xavier Cat
 comments: false
+tags: [Grégory Boge, SQL]
 ---
 
 ```

@@ -3,6 +3,7 @@ layout: post
 title: FrPSUG 2017/04/11 PowerShell sur Linux
 author: Francois-Xavier Cat
 comments: false
+tags: [Pascal Sauliere, Linux]
 ---
 
 ```

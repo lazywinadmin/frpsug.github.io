@@ -3,6 +3,7 @@ layout: post
 title: PowerShell sur Linux - Enregistrement, présentation et scripts
 author: 'Francois-Xavier Cat'
 comments: true
+tags: [Pascal Sauliere, Linux]
 ---
 
 Un énorme merci au présentateur Pascal Sauliere, à tous les participants et organisateurs!!

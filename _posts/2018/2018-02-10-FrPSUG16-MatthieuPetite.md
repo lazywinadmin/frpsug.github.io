@@ -3,6 +3,7 @@ layout: post
 title: 2018/02/13 Retour d’expérience sur la mise en place de la méthode Dev/Ops avec Powershell (Matthieu Petite)
 author: Francois-Xavier Cat
 comments: true
+tags: [Matthieu Petite, DevOps, Azure]
 ---
 
 **Update 2018/02/13:** Ajout de l'enregistrement

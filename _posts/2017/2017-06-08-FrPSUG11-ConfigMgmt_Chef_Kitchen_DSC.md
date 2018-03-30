@@ -3,6 +3,7 @@ layout: post
 title: FrPSUG 2017/06/20 Configuration Management with Chef, Kitchen, PowerShell and DSC (Robb Schiefer)
 author: Francois-Xavier Cat
 comments: false
+tags: [Robb Schiefer, Chef, Test-Kitchen, DSC, TDD]
 ---
 
 ```

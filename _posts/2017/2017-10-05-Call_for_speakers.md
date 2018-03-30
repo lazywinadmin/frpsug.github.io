@@ -3,6 +3,7 @@ layout: post
 title: "Appel aux conférenciers/Call for Speakers 2017-2018"
 author: Francois-Xavier Cat
 comments: true
+tags: [FrPSUG, Call for speakers]
 ---
 
 ![frpsug](/images/powershell-3.0-20perc.png)

@@ -3,6 +3,7 @@ layout: post
 title: FrPSUG 2016/11/16 - Pester
 author: Francois-Xavier Cat
 comments: false
+tags: [Fabien Dibot, Pester]
 ---
 
 ```

@@ -2,6 +2,7 @@
 layout: post
 title: Lancement du Groupe d'utilisateurs PowerShell francophone
 comments: false
+tags: [FrPSUG]
 ---
 
 Nous sommes heureux de vous annoncer le lancement du French PowerShell User Group.

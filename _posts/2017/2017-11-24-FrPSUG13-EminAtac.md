@@ -3,6 +3,7 @@ layout: post
 title: 2017/11/28 Atelier - Comment gagner des gigas en quelques secondes ? (Emin Atac)
 author: Francois-Xavier Cat
 comments: true
+tags: [Emin Atac, Best practices]
 ---
 
 La prochaine rencontre de notre groupe aura lieu le Mardi 28 Novembre 2017 à partir de 21h (heure de Paris).

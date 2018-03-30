@@ -3,6 +3,7 @@ layout: post
 title: Comment évaluer la qualité de code PowerShell avec PSCodeHealth(Mathie­u Buisson)
 author: Francois-Xavier Cat
 comments: true
+tags: [Mathie­u Buisson, PSCodeHealth]
 ---
 
 Un énorme merci au présentateur **Mathieu Buisson**, à tous les participants et organisateurs!!

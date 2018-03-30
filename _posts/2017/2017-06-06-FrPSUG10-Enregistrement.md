@@ -3,6 +3,7 @@ layout: post
 title: Les outils Powershell pour SQL - Enregistrement, présentation et scripts
 author: Francois-Xavier Cat
 comments: true
+tags: [Grégory Boge, SQL]
 ---
 
 Un énorme merci au présentateur Gregory Boge, à tous les participants et organisateurs!!

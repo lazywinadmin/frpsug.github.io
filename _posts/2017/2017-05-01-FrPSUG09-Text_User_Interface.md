@@ -3,6 +3,7 @@ layout: post
 title: FrPSUG 2017/05/10 Text User Interface avec PowerShell
 author: Francois-Xavier Cat
 comments: false
+tags: [Flavien Michaleczek, TUI, GUI]
 ---
 
 ```

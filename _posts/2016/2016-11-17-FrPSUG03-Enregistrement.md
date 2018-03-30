@@ -3,6 +3,7 @@ layout: post
 title: PowerShell et Unity - Enregistrement, présentation et scripts
 author: Francois-Xavier Cat
 comments: false
+tags: [Micky Balladelli, Unity]
 ---
 
 Un énorme merci à tous les participants et organisateurs de ce deuxième événement.

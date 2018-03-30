@@ -3,6 +3,7 @@ layout: post
 title: FrPSUG 2017/02/15 DSC + Test-Kitchen
 author: Francois-Xavier Cat
 comments: false
+tags: [Gael Colas, DSC, Test-Kitchen]
 ---
 
 ```

@@ -3,6 +3,7 @@ layout: post
 title: PowerShell DSC + Test-Kitchen - Enregistrement, présentation et scripts
 author: Francois-Xavier Cat
 comments: true
+tags: [Gael Colas, DSC, Test-Kitchen]
 ---
 
 Un énorme merci au présentateur Gael Colas, à tous les participants et aux organisateurs!!

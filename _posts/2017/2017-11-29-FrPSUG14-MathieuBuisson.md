@@ -3,6 +3,7 @@ layout: post
 title: 2017/12/06 Comment évaluer la qualité de code PowerShell avec PSCodeHealth(Mathie­u Buisson)
 author: Francois-Xavier Cat
 comments: true
+tags: [Mathie­u Buisson, PSCodeHealth]
 ---
 
 La prochaine rencontre de notre groupe aura lieu le Mercredi 6 Decembre 2017 à partir de 20h (heure de Paris).

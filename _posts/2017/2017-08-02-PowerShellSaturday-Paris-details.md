@@ -3,6 +3,7 @@ layout: post
 title: PowerShell Saturday Paris 2017 - Agenda / Lieu
 author: Francois-Xavier Cat
 comments: false
+tags: [FrPSUG, PowerShell Saturday]
 ---
 
 Notre événement **PowerShell Saturday Paris** approche a grand pas!

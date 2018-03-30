@@ -3,6 +3,7 @@ layout: post
 title: FrPSUG 2016/10/18 - PowerShell Classes
 author: Francois-Xavier Cat
 comments: false
+tags: [Stéphane Van Gulick, Classes]
 ---
 
 ```

@@ -3,6 +3,7 @@ layout: post
 title: 2018/01/16 PowerShell et AWS (Jamal Tajjar) (ANNULÉ)
 author: Francois-Xavier Cat
 comments: true
+tags: [Jamal Tajjar, AWS]
 ---
 
 **Mise à jour 2017/01/02: Événement annulé**
