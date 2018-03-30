@@ -1,6 +1,7 @@
 ---
 layout: page
 title: PowerShell Saturday Paris 2018
+image: \images\headers\paris-guide-header-beta.jpg
 ---
 
 Notre événement PowerShell Saturday approche a grand pas!
