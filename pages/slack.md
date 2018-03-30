@@ -1,9 +1,8 @@
 ---
 layout: page
-title: À propos
+title: Slack
 ---
 
+En tout temps, vous pouvez nous rejoindre sur le channel **#french** de [PowerShell.slack.com](https://powershell.slack.com/Slack).
 
-Le French PowerShell User Group (Groupe d’utilisateurs Francophone PowerShell) est pour tout francophone désireux d’apprendre et d’étendre ses connaissances.
-
-Notre but est de développer une communauté forte pour partager et promouvoir le transfert de connaissances.
+Un compte est requis, [inscription gratuite ici:](http://slack.poshcode.org/).
