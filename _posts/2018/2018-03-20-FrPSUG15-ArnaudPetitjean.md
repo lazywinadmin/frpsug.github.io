@@ -3,6 +3,7 @@ layout: post
 title: 2018/03/26 Universal Dashboard (Arnaud Petitjean)
 author: Francois-Xavier Cat
 comments: true
+tags: [arnaud petitjean, universal dashboard]
 ---
 
 **Update 2018/03/26:** Ajout de l'enregistrement

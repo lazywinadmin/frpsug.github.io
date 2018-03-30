@@ -3,6 +3,7 @@ layout: post
 title: 2018/04/17 Gestion d’une Infrastructure VMware avec PowerCLI
 author: Francois-Xavier Cat
 comments: true
+tags: [Jérôme Bezet-Torres, powercli]
 ---
 
 La prochaine rencontre de notre groupe aura lieu le **Mardi 17 Avril 2018 à partir de 20h (heure de Paris)**.
@@ -18,7 +19,7 @@ A venir...
 
 ![image-center](/images\2018\2018-02-03-FrPSUG18-JeromeBezetTorres\61AacEuk.jpg)
 
-## Jérôme_Bezet-Torres
+## Jérôme Bezet-Torres
 
 ![image-center](/images\presenters\Jérôme_Bezet-Torres.jpg)
 
