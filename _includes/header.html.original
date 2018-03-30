@@ -62,13 +62,10 @@
 		  
 		  {% if include.type == "post" %}
 		  <span class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }}
-        <!--- Include github-->
-        {% if site.custom.post.edit %} |
-        <a href="{{ site.github.repository_url }}/blob/master{{ site.branch }}/{{ page.path }}" title='Edit this page'>
-          <!--- <i class="fa fa-pencil" aria-hidden="true"></i></a>-->
-          <i class="fa fa-github-alt" aria-hidden="true"></i>
-        </a>
-        {% endif %}
+
+
+
+        
       </span>
 		  {% endif %}
         </div>
