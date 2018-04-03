@@ -21,7 +21,7 @@ Pour rejoindre nos meetings vous pouvez soit utiliser le logiciel Skype For Busi
 
 **Aucun compte n'est requis en tant que participant ou presenteur**
 
-# Être Présentateurs
+# Être Présentatrice/Présentateur
 
 ### Soumettre une présentation
 
