@@ -47,7 +47,7 @@
 
 
       <!-- Include link to Edit the page -->
-{% if include.type == "page" %} 
+{% if page.layout == "page" %} 
   {% if site.custom.page.edit %}
       <span class="post-meta">| Edit this Page
         <a href="{{ site.github.repository_url }}/blob/master{{ site.branch }}/{{ page.path }}" title='Edit this page'>
@@ -57,7 +57,7 @@
   {% endif %}
 {% endif %}
 
-{% if include.type == "post" %}
+{% if page.layout == "post" %}
   {% if site.custom.post.edit %}
       <span class="post-meta">| Edit this page
         <a href="{{ site.github.repository_url }}/blob/master{{ site.branch }}/{{ page.path }}" title='Edit this page'>
