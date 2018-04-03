@@ -5,7 +5,7 @@ title: Meetings
 
 Les meetings du French PowerShell User Group ont lieu en general une fois par mois.
 
-**Note: Ils sont en general enregistrer et diffuser sur [notre channel Youtube](https://www.youtube.com/frenchpowershellusergroup). En rejoignant le meeting vous acceptez d'apparaitre sur nos enregistrements**
+**Avertissement: Les meetings sont en general enregistrer et diffuser sur [notre channel Youtube](https://www.youtube.com/frenchpowershellusergroup).**
 
 # Nos futures rencontres
 
