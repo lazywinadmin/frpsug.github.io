@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Meetings information
+title: Meetings
 ---
 
 Les meetings du French PowerShell User Group ont lieu en general une fois par mois.
