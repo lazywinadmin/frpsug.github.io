@@ -44,6 +44,29 @@
     <p class="theme-by text-muted">
       Theme by
       <a href="http://deanattali.com/beautiful-jekyll/">beautiful-jekyll</a>
+
+
+      <!-- Include link to Edit the page -->
+{% if include.type == "page" %} 
+  {% if site.custom.page.edit %}
+      <span class="post-meta">| Edit this Page
+        <a href="{{ site.github.repository_url }}/blob/master{{ site.branch }}/{{ page.path }}" title='Edit this page'>
+          <i class="fa fa-github-alt" aria-hidden="true"></i>
+        </a>
+      </span>
+  {% endif %}
+{% endif %}
+
+{% if include.type == "post" %}
+  {% if site.custom.post.edit %}
+      <span class="post-meta">| Edit this page
+        <a href="{{ site.github.repository_url }}/blob/master{{ site.branch }}/{{ page.path }}" title='Edit this page'>
+          <i class="fa fa-github-alt" aria-hidden="true"></i>
+        </a>
+      </span>
+  {% endif %}
+{% endif %}
+
     </p>
       </div>
     </div>

@@ -30,14 +30,15 @@
 		    {% if include.type == "page" %}
             <hr class="small">
             <span class="{{ include.type }}-subheading">{{ page.subtitle }}</span>
-			{% else %}
-			<h2 class="{{ include.type }}-subheading">{{ page.subtitle }}</h2>
-			{% endif %}
-		  {% endif %}
-		  
-		  {% if include.type == "post" %}
-		  <span class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
-		  {% endif %}
+      {% else %}
+        <h2 class="{{ include.type }}-subheading">{{ page.subtitle }}</h2>
+      {% endif %}
+{% endif %}
+
+
+{% if include.type == "post" %}
+          <span class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
+{% endif %}
         </div>
       </div>
     </div>
@@ -45,43 +46,44 @@
   <span class='img-desc'></span>
 </div>
 {% endif %}
+
 <div class="intro-header no-img">
   <div class="container">
     <div class="row">
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
         <div class="{{ include.type }}-heading">
           <h1>{% if page.title %}{{ page.title }}{% else %}<br/>{% endif %}</h1>
-		  {% if page.subtitle %}
-		    {% if include.type == "page" %}
+{% if page.subtitle %}
+  {% if include.type == "page" %}
             <hr class="small">
             <span class="{{ include.type }}-subheading">{{ page.subtitle }}</span>
-			{% else %}
+  {% else %}
 			<h2 class="{{ include.type }}-subheading">{{ page.subtitle }}</h2>
-			{% endif %}
-		  {% endif %}
+  {% endif %}
+{% endif %}
 		  
-		  {% if include.type == "post" %}
+{% if include.type == "post" %}
 		  <span class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }}
         <!--- Include github-->
-        {% if site.custom.post.edit %} |
+  {% if site.custom.post.edit %} |
         <a href="{{ site.github.repository_url }}/blob/master{{ site.branch }}/{{ page.path }}" title='Edit this page'>
           <!--- <i class="fa fa-pencil" aria-hidden="true"></i></a>-->
           <i class="fa fa-github-alt" aria-hidden="true"></i>
         </a>
-        {% endif %}
+  {% endif %}
       </span>
-      {% endif %}
+{% endif %}
       
       <!--- Include github on PAGES-->
-    {% if include.type == "page" %}
-      {% if site.custom.page.edit %}
+{% if include.type == "page" %}
+  {% if site.custom.page.edit %}
         <span class="post-meta">Contribute to this page
           <a href="{{ site.github.repository_url }}/blob/master{{ site.branch }}/{{ page.path }}" title='Edit this page'>
             <i class="fa fa-github-alt" aria-hidden="true"></i>
           </a>
         </span>
-      {% endif %}
-    {% endif %}
+  {% endif %}
+{% endif %}
         </div>
       </div>
     </div>
