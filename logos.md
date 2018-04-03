@@ -3,6 +3,8 @@ layout: page
 title: Logos et bannières
 ---
 
+Merci a tous ceux qui ont déja contribué et fourni logos et bannière :thumbsup:
+
 ## Proposer un logo ou bannière
 
 Ajouter votre logo ou bannière sur notre repo: [https://github.com/FrPSUG/media/tree/master/frpsug](https://github.com/FrPSUG/media/tree/master/frpsug)

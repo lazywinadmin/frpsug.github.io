@@ -29,9 +29,7 @@ navbar-links:
     - Logos: "logos"
     - Contribuer au blog: "contribuerblog"
   Nos meetings:
-    - Meetup: "https://www.meetup.com/FrenchPSUG/"
-    - Speakers: "speakers"
-    - Skype : "skype"
+    - Meetings: "meetings"
     - Youtube: "https://www.youtube.com/frenchpowershellusergroup"  
   PS Saturday:
     - '2017/09/16': "https://www.meetup.com/FrenchPSUG/events/239169341/"
