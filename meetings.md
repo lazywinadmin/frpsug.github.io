@@ -7,11 +7,9 @@ Les meetings du French PowerShell User Group ont lieu en general une fois par mo
 
 **Avertissement: Les meetings sont en general enregistrer et diffuser sur [notre channel Youtube](https://www.youtube.com/frenchpowershellusergroup).**
 
-# Nos futures rencontres
+# Meetings
 
-Nos meetings sont afficher sur le site meetup : [https://www.meetup.com/FrenchPSUG](https://www.meetup.com/FrenchPSUG/).
-
-Nous organisons egalement des PowerShell Saturday sur place, voir la rubrique **"PS Saturday"**
+La liste des prochains meetings est disponible sur meetup.com : [https://www.meetup.com/FrenchPSUG](https://www.meetup.com/FrenchPSUG/).
 
 # Skype for business
 
@@ -21,9 +19,11 @@ Pour rejoindre nos meetings vous pouvez soit utiliser le logiciel Skype For Busi
 
 **Aucun compte n'est requis en tant que participant ou presenteur**
 
+<u>Note pour les organisateurs:</u> Les meetings peuvent etre planifier en utilisant [sched.lync.com](http://sched.lync.com)
+
 # Être Présentatrice/Présentateur
 
-### Soumettre une présentation
+<u>__Soumettre une présentation__</u>
 
 Nous sommes toujours a la recherche de personne pour presenter. Si vous souhaitez présenter vous pouvez contacter un des organizateurs directment ou envoyer un email a `frpsug @ gmail com`.
 
@@ -33,7 +33,7 @@ Afin de faciliter la promotion du meeting, SVP Fournir les choses suivantes:
 * Description
 * Information sur le presentateur (exemple: Blog, Twitter, Github, ...)
 
-### Sujets
+<u>__Exemples de sujets__</u>
 
 D'apres notre [sondage recent](https://frpsug.github.io/2017/10/05/Call_for_speakers/) l'audience aimerait voir des sujets de niveau **Intermediaire** ou **Avance** dans l'ordre de priorites suivant:
 
@@ -48,7 +48,7 @@ D'apres notre [sondage recent](https://frpsug.github.io/2017/10/05/Call_for_spea
 1. PowerShell .Net Core
 1. Debuter avec PowerShell
 
-### Format de nos meetings
+<u>__Format de nos meetings__</u>
 
 La majeur partie de nos meetings sont des Présentation ordinaire. Cependant veuillez noter que d'autre format sont egalement possible:
 
@@ -60,16 +60,16 @@ La majeur partie de nos meetings sont des Présentation ordinaire. Cependant veu
   * Session focaliser sur du code
   * Durée: ~60 minutes
 
-### Autre information pour présentateur
+<u>__Autre information pour les présentateurs__</u>
 
+* Theme Powerpoint
+  * Nous n'avons pas de theme powerpoint actuellement. Vous pouvez utiliser [une des presentations precedente](https://github.com/FrPSUG/Presentations).
 * Avant le meeting
   * Dry-run: Un meeting de test peut etre planifier avant le vrai meeting si vous souhaitez avoir les commentaires des organisateurs.
 * Lors du meeting
-  * Nous utilisons Skype for Business pour nos rencontres. Afin de tester votre audio/partage d'ecran avant le meeting, svp vous connecter au moins 10 minutes avant le debut du meeting :thumbsup:
+  * Nous utilisons Skype for Business pour nos rencontres. Afin de tester votre audio/partage d'ecran avant le meeting, svp vous connectez au moins 10 minutes avant le debut du meeting.
 * Apres le meeting
   * Partager votre code/presentation (Pull request sur https://github.com/FrPSUG/Presentations)
-
- Enregistrement
 
 # Enregistrements
 
