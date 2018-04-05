@@ -15,7 +15,7 @@ Le lien du meeting sera envoyé aux personnes inscrites à la rencontre Meetup (
 
 ## Description
 
-A venir...
+Dans cette session j’aborderais comment automatiser les différentes opérations de création, de modification et de configuration de machines virtuelles dans un environnement VMware vSphere. Ainsi que la configuration et le déploiement d’une ferme de serveur à des fin des tests. Au cours des démonstrations je présenterais des scripts PowerCLi ainsi que des applications WPF.
 
 ![image-center](/images\2018\2018-02-03-FrPSUG18-JeromeBezetTorres\61AacEuk.jpg)
 
