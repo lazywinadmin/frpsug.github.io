@@ -6,6 +6,23 @@ comments: true
 tags: [Jérôme Bezet-Torres, powercli]
 ---
 
+## Update 2018/04/17
+
+Voici les liens et l'enregistrement du meeting.
+
+Liens du meetings:
+
+* [invoke-vmscriptplus](http://www.lucd.info/2017/09/14/invoke-vmscriptplus/) (Luc dekens)
+* [StormShield](https://jm2k69.github.io/2018-03-21-PowerCli-Lab-StormShield/) (Creer par Jérôme Bezet-Torres)
+  * Demo: https://youtu.be/ApKuclem_rQ
+* VMware support mattrix for PowerCli: https://www.vmware.com/resources/compatibility/sim/interop_matrix.php#interop&299=&2= 
+* [Lud Dekens blog](http://www.lucd.info/)
+* [William Lam blog](https://www.virtuallyghetto.com/tag/powercli)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nFQpTyHjde0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Meeting
+
 La prochaine rencontre de notre groupe aura lieu le **Mardi 17 Avril 2018 à partir de 20h (heure de Paris)**.
 
 Cet événement aura lieu en ligne via Skype For Business (Pas de compte requis, vous pouvez rejoindre en tant qu'invité).
