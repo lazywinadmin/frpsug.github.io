@@ -14,8 +14,8 @@ Liens du meetings:
 
 * [invoke-vmscriptplus](http://www.lucd.info/2017/09/14/invoke-vmscriptplus/) (Luc dekens)
 * [StormShield](https://jm2k69.github.io/2018-03-21-PowerCli-Lab-StormShield/) (Creer par Jérôme Bezet-Torres)
-  * Demo: https://youtu.be/ApKuclem_rQ
-* VMware support mattrix for PowerCli: https://www.vmware.com/resources/compatibility/sim/interop_matrix.php#interop&299=&2= 
+  * [Demo youtube](https://youtu.be/ApKuclem_rQ)
+* [VMware support mattrix for PowerCli](https://www.vmware.com/resources/compatibility/sim/interop_matrix.php#interop&299=&2=)
 * [Lud Dekens blog](http://www.lucd.info/)
 * [William Lam blog](https://www.virtuallyghetto.com/tag/powercli)
 
