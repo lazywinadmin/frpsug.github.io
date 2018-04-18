@@ -56,7 +56,7 @@ La majeur partie de nos meetings sont des Présentation ordinaire. Cependant veu
   * Présentation classique avec Powerpoint et Démos
   * Durée: ~45 minutes
   * Question/Réponse: 15 minutes
-* Atelier
+* Atelier (Workshop)
   * Session focaliser sur du code
   * Durée: ~60 minutes
 
