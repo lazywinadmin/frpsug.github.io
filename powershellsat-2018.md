@@ -16,9 +16,11 @@ Merci à ceux ayant deja soumis une présentation et aux participants pour leur 
 
 ## Tracks
 
-TBD
+[https://www.meetup.com/FrenchPSUG/events/247765024/](https://www.meetup.com/FrenchPSUG/events/247765024/)
 
 ## Call for Speakers
+
+Closed.
 
 ### Proposer une session
 
