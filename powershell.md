@@ -12,10 +12,10 @@ Voici quelques resources pour apprendre PowerShell
 
 ## PowerShell Bloggers
 
-* [Francois-Xavier Cat]()
-* [Fabien Dibot]()
-* [Micky Balladelli]()
-* [Stephane Van Gulick]()
-* [Emin Atac]()
-* [Gael Colas]()
-* [Arnaud Petitjean]()
+* [Francois-Xavier Cat](https://lazywinadmin.com/)
+* [Fabien Dibot](https://pwrshell.net/)
+* [Micky Balladelli](https://balladelli.com/)
+* [Stephane Van Gulick](http://powershelldistrict.com/)
+* [Emin Atac](https://p0w3rsh3ll.wordpress.com/)
+* [Gael Colas](https://gaelcolas.com/)
+* [Arnaud Petitjean](http://www.powershell-scripting.com/)
