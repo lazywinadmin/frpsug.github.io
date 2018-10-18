@@ -19,3 +19,4 @@ Voici quelques resources pour apprendre PowerShell
 * [Emin Atac](https://p0w3rsh3ll.wordpress.com/)
 * [Gael Colas](https://gaelcolas.com/)
 * [Arnaud Petitjean](http://www.powershell-scripting.com/)
+* [Christophe Kumor](https://christophekumor.github.io/)
