@@ -21,16 +21,7 @@ Pour proposer une présentation, <u>utiliser le formulaire suivant</u>: **[Formu
 
 Voici le resultat du sondage envoyé il ya quelques temps concernant les sujets et niveaux que vous voudriez aborder pendant nos meetups.
 
-### Question: Heure du meeting
-
-|Compte|Reponse|
-|---|---|
-|26|20h00|
-|24|21h00|
-|14|19h00|
-|5|18h00|
-
-### Question: Niveau des Presentations
+### Question: Quel niveau souhaitez-vous ?
 
 |Compte|Reponse|
 |---|---|
@@ -39,7 +30,7 @@ Voici le resultat du sondage envoyé il ya quelques temps concernant les sujets 
 |8|400 (Expert)|
 |4|100 (Débutant) ou +|
 
-### Question: Sujet
+### Question: Quel sujet vous interesses ?
 
 |Compte|Reponse|
 |---|---|
@@ -70,7 +61,7 @@ Voici le resultat du sondage envoyé il ya quelques temps concernant les sujets 
 |1|Powercli|
 |1|DSC Core ;)|
 
-### Question: Votre niveau
+### Question: Votre est votre niveau PowerShell ?
 
 |Compte|Reponse|
 |---|---|
