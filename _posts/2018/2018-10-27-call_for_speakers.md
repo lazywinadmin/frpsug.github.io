@@ -17,7 +17,7 @@ Les sessions sont en général enregistrer et mises a disposition sur [notre cha
 Pour proposer une présentation, <u>utiliser le formulaire suivant</u>: **[Formulaire](https://goo.gl/forms/Gke1OSGU782zMHsG3)**
 
 
-## Résultats du Sondage
+## Idées de sujet ?
 
 Voici le resultat du sondage envoyé il ya quelques temps concernant les sujets et niveaux que vous voudriez aborder pendant nos meetups.
 
