@@ -13,7 +13,7 @@ Francois-Xavier travaille actuellement dans le secteur financier en tant qu'Ing�
 Il travaille regulièrement avec les produits telque Active Directory, la suite System Center (surtout sur SCCM/ConfigMgr, SCSM, Orchestrator/Scorch), SMA, VMware vSphere, Office365, ...
 
 * [Blog](https://lazywinadmin.github.io)
-* [Twitter](https://twitter.com/lazywinadm)
+* [Twitter](https://twitter.com/lazywinadmin)
 * [Github](https://github.com/lazywinadmin)
 
 ## Stéphane van Gulick

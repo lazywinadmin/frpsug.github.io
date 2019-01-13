@@ -28,7 +28,7 @@ Cet événement aura lieu en ligne via Skype For Business (Pas de compte requis,
 </tr>
 <tr>
     <td>Présentateur</td>
-<td> <b>Francois-Xavier Cat (<a href="http://lazywinadmin.com">Blog</a> / <a href="http://twitter.com/lazywinadm">Twitter</a> / <a href="http://github.com/lazywinadmin">Github</a>)</b></td>
+<td> <b>Francois-Xavier Cat (<a href="http://lazywinadmin.com">Blog</a> / <a href="http://twitter.com/lazywinadmin">Twitter</a> / <a href="http://github.com/lazywinadmin">Github</a>)</b></td>
 </tr>
 <tr>
     <td>Quand</td>
