@@ -21,6 +21,20 @@ Pour rejoindre nos meetings vous pouvez soit utiliser le logiciel Skype For Busi
 
 <u>Note pour les organisateurs:</u> Les meetings peuvent etre planifier en utilisant [sched.lync.com](http://sched.lync.com)
 
+# Google Hangout On-Air
+
+Lorsque nos meetings se deroulent sur Youtube, il suffit de suivre le meeting via le lien Youtube Live et de participer au debat grace au Chat youtube.
+
+<u>Note pour les organisateurs:</u> Les meetings peuvent etre planifier a l'avance ou lancer a partir des etapes suivantes:
+1. Naviguer vers https://www.youtube.com/my_live_events
+1. Creer un event de type **Google Hangouts On Air**
+1. Inviter les participants au debat sur le google hangout
+1. Inviter le reste de l'audience sur le Youtube Live qui est creer. L'audience peut participer au meeting via le chat Youtube.
+1. L'enregistrement du meeting sera directement ajouter au compte avec lequel le meeting est lancer.
+
+Noter que le chat Hangout et le chat Youtube sont different et n'interagissent pas ensemble.
+
+
 # Être Présentatrice/Présentateur
 
 <u>Soumettre une présentation</u>
