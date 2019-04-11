@@ -53,6 +53,8 @@ _Les formations de la Microsoft Virtual Academy seront retirées le 30 Avril 201
 * [Gael Colas](https://gaelcolas.com/)
 * [Arnaud Petitjean](http://www.powershell-scripting.com/)
 * [Christophe Kumor](https://christophekumor.github.io/)
+* [Jérôme Bezet-Torres](http://jm2k69.github.io/)
+* [Damien Van Robaeys](http://www.systanddeploy.com)
 
 
 ## FRPSUG Community GitHub Repos
