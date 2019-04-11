@@ -3,12 +3,45 @@ layout: page
 title: PowerShell
 ---
 
-Voici quelques resources pour apprendre PowerShell
+Voici quelques resources pour apprendre PowerShell et progresser
 
-## Videos
+
+## Documentation 
+
+* [PowerShell sur Microsoft Docs](https://docs.microsoft.com/en-us/powershell/)
+* [PowerShell sur Github](https://github.com/PowerShell)
+
+
+## Mooc et formation en ligne
+
+***Microsoft Learn***
+
+* [Automate Azure tasks using scripts with PowerShell](https://docs.microsoft.com/en-us/learn/modules/automate-azure-tasks-with-powershell/)
+
+
+***Edx***
+
+* [Windows PowerShell Basics](https://www.edx.org/course/windows-powershell-basics-1)
+* [Introduction to Windows PowerShell](https://www.edx.org/course/introduction-windows-powershell-microsoft-posh200x)
+* [Powershell Security Best Practices](https://www.edx.org/course/powershell-security-best-practices-2)
+
+***Microsoft Virtual Academy***
+
+_Les formations de la Microsoft Virtual Academy seront retirées le 30 Avril 2019._
 
 * [MVA - Introduction à PowerShell Desired State Configuration (DSC)](https://mva.microsoft.com/fr-fr/training-courses/introduction-powershell-desired-state-configuration-dsc-12621?l=cOVAs1BSB_9005192797)
 * [MVA - PowerShell Desired State Configuration (DSC) avancé](https://mva.microsoft.com/fr-fr/training-courses/powershell-desired-state-configuration-dsc-avanc--14348)
+
+
+## Livres 
+
+* [The PowerShell Conference Book, The DevOps Collective](https://leanpub.com/powershell-conference-book)
+* [Learn Windows PowerShell in a Month of Lunches, Third Edition, Don Jones and Jeffery Hicks](https://www.manning.com/books/learn-windows-powershell-in-a-month-of-lunches-third-edition)
+* [Windows PowerShell in Action, Third Edition, Bruce Payette and Richard Siddaway](https://www.manning.com/books/windows-powershell-in-action-third-edition)
+* [The PowerShell Practice Primer, Jeff Hicks](https://leanpub.com/psprimer)
+* [PowerShell, Fonctionnalités avancées (Nouvelle édition), Nicolas BAUDIN](https://www.editions-eni.fr/livre/powershell-fonctionnalites-avancees-nouvelle-edition-9782409014994?t=552E2C5C-22F2-4382-AC69-6C903F9BCCF6)
+* [PowerShell Core et Windows PowerShell, Arnaud PETITJEAN - Robin LEMESLE](https://www.editions-eni.fr/livre/powershell-core-et-windows-powershell-les-fondamentaux-du-langage-2e-edition-9782409013287?t=552E2C5C-22F2-4382-AC69-6C903F9BCCF6)
+
 
 ## PowerShell Bloggers
 
