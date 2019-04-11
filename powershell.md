@@ -53,3 +53,17 @@ _Les formations de la Microsoft Virtual Academy seront retirées le 30 Avril 201
 * [Gael Colas](https://gaelcolas.com/)
 * [Arnaud Petitjean](http://www.powershell-scripting.com/)
 * [Christophe Kumor](https://christophekumor.github.io/)
+* [Jérôme Bezet-Torres](http://jm2k69.github.io/)
+* [Damien Van Robaeys](http://www.systanddeploy.com)
+
+
+## FRPSUG Community GitHub Repos
+
+* [Francois-Xavier Cat a.k.a LazyAdmin](https://github.com/lazywinadmin)
+* [Olivier Miossec a.k.a Omiosser](https://github.com/omiossec)
+* [Stephane Van Gulick](https://github.com/Stephanevg)
+* [Gael Colas](https://github.com/gaelcolas)
+* [Laurent Lienhard](https://github.com/LaurentLienhard)
+* [Christophe Kumor](https://github.com/christophekumor)
+* [Jérôme Bezet-Torres a.k.a JM2K69 a.k.a El Professor](https://github.com/JM2K69)
+* [LxLeChat a.k.a Philippe](https://github.com/LxLeChat)
