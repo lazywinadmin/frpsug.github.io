@@ -58,6 +58,7 @@ _Les formations de la Microsoft Virtual Academy seront retirées le 30 Avril 201
 ## FRPSUG Community GitHub Repos
 
 * [Francois-Xavier Cat a.k.a LazyAdmin](https://github.com/lazywinadmin)
+* [Olivier Miossec a.k.a Omiosser](https://github.com/omiossec)
 * [Stephane Van Gulick](https://github.com/Stephanevg)
 * [Gael Colas](https://github.com/gaelcolas)
 * [Laurent Lienhard](https://github.com/LaurentLienhard)
