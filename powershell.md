@@ -10,20 +10,33 @@ Voici quelques resources pour apprendre PowerShell et progresser
 
 * [PowerShell sur Microsoft Docs](https://docs.microsoft.com/en-us/powershell/)
 * [PowerShell sur Github](https://github.com/PowerShell)
+* [PowerShell Doc sur Github](https://github.com/MicrosoftDocs/PowerShell-Docs)
+* [Le Blog PowerShell](https://devblogs.microsoft.com/powershell/)
 
 
-## Mooc et formation en ligne
+## Mooc et formations en ligne
 
 ***Microsoft Learn***
 
 * [Automate Azure tasks using scripts with PowerShell](https://docs.microsoft.com/en-us/learn/modules/automate-azure-tasks-with-powershell/)
 
+**Microsoft sur GitHub**
+
+* [Learning PowerShell](https://github.com/PowerShell/PowerShell/tree/master/docs/learning-powershell)
+
+**Channel 9**
+
+* [PowerShell sur Channel 9](https://channel9.msdn.com/Search?term=powershell&sortBy=recent&lang-en=true)
 
 ***Edx***
 
 * [Windows PowerShell Basics](https://www.edx.org/course/windows-powershell-basics-1)
 * [Introduction to Windows PowerShell](https://www.edx.org/course/introduction-windows-powershell-microsoft-posh200x)
 * [Powershell Security Best Practices](https://www.edx.org/course/powershell-security-best-practices-2)
+
+**Plataan TV**
+
+* [Windows PowerShell 101](https://plataan.tv/en/plataan/training-course/windows/windows-powershell-101)
 
 ***Microsoft Virtual Academy***
 
@@ -32,6 +45,9 @@ _Les formations de la Microsoft Virtual Academy seront retirées le 30 Avril 201
 * [MVA - Introduction à PowerShell Desired State Configuration (DSC)](https://mva.microsoft.com/fr-fr/training-courses/introduction-powershell-desired-state-configuration-dsc-12621?l=cOVAs1BSB_9005192797)
 * [MVA - PowerShell Desired State Configuration (DSC) avancé](https://mva.microsoft.com/fr-fr/training-courses/powershell-desired-state-configuration-dsc-avanc--14348)
 
+## Stackoverflow
+
+* [Questions tagged [powershell]](https://stackoverflow.com/questions/tagged/powershell)
 
 ## Livres 
 
