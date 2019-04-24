@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 2019/05/14 PowerShell GUI (part 2)
+title: 2019/07/16 PowerShell GUI (part 2)
 author: Thierry Degols
 comments: true
 tags: [powershell,GUI]
 ---
 
-Rencontre du French Powershell user group le Mardi 14 mai 2019 à 20h heure de Paris/14h heure de Montreal.
+Rencontre du French Powershell user group le Mardi 16 juillet 2019 à 20h heure de Paris/14h heure de Montreal.
 
 Tout le monde est bienvenu !
 
