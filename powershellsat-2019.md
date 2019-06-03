@@ -1,7 +1,7 @@
 ---
 layout: page
 title: PowerShell Saturday Paris 2019
-bigimg: "/images/headers/Header-2019v2.jpg"
+bigimg: "/images/headers/Header-2019.jpg"
 ---
 
 ## English
