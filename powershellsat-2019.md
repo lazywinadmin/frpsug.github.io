@@ -1,7 +1,7 @@
 ---
 layout: page
 title: PowerShell Saturday Paris 2019
-bigimg: "/images/headers/Header-2019.jpg"
+bigimg: "/images/headers/Header-2019v2.jpg"
 ---
 
 ## English
@@ -44,7 +44,7 @@ Le Call for speakers est encore ouvert. Investi toi d'un nouveau challenge, et p
 
 ### Format
 
-* Session Français (60min) : Session 1h en français
+* Session Français (60min) : Session 1h en français 
 * English Session (60min) : One hour session in english
 
 ### Catégories / Categories
