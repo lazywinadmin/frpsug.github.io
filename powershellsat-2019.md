@@ -15,7 +15,7 @@ Registration will open in August
 
 ### Call for speakers
 
-This year, we have an english track (!). If you are interested in giving a presentation, you can submit a presentation here --> 
+This year, we have an english track (!). If you are interested in giving a presentation, you can submit a presentation [here](https://docs.google.com/forms/d/e/1FAIpQLSd0Khps45tqPV1qMqzOS6c4y93WNkv-l0dS_yp6rqEBXnLV1w/viewform)
 
 
 ## Français
@@ -40,7 +40,7 @@ Le Call for speakers est encore ouvert. Investi toi d'un nouveau challenge, et p
 
 ### Proposer une session / Submit a session !
 
-[Call for Speakers](https://frpsug.cfp.io)
+[Call for Speaker](https://docs.google.com/forms/d/e/1FAIpQLSd0Khps45tqPV1qMqzOS6c4y93WNkv-l0dS_yp6rqEBXnLV1w/viewform)
 
 ### Format
 
