@@ -27,7 +27,8 @@ Similar to last year, we'll have sessions in both English and French. If you are
 * Security
 * Advanced PowerShell
 * PowerShell & DevOps for Beginners
-* Datas
+* Infrastructure As Code
+* Configuration Management
 
 ## Sponsors
 Contact: frpsug @ gmail.com
@@ -57,7 +58,8 @@ Comme l'annee derniere, nous planifions d'avoir des sessions en Francais et Angl
 * Security
 * Advanced PowerShell
 * PowerShell & DevOps for Beginners
-* Datas
+* Infrastructure As Code
+* Configuration Management
 
 ## Sponsors
 Contact: frpsug @ gmail.com
