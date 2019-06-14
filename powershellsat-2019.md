@@ -25,7 +25,7 @@ Similar to last year, we'll have sessions in both English and French. If you are
 ## Sponsors
 Contact: frpsug @ gmail.com
 
-<#####>
+<hr>
 
 ## Français
 Notre événement PowerShell Saturday approche a grand pas!
