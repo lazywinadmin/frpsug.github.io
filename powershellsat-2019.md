@@ -5,63 +5,43 @@ bigimg: "/images/headers/Header-2019.jpg"
 ---
 
 ## English
-
-Our event 'PowerShell Saturday' is almost there! 
-It will be held in Paris on the 12th of October 2019, and start at 9h00.
-Venue information will be disclosed soon
-
-If you want to simply participate, you can register directly on our meetup [Here](https://www.meetup.com/fr-FR/FrenchPSUG/events/261869405/).
-
+Our event 'PowerShell Saturday' is almost here! 
+It will be held in Paris on the 12th of October 2019 from 9:00am.
+### Location
+<i>Venue information will be disclosed soon...</i>
+### Registration
+To register, please use our meetup group [here](https://www.meetup.com/fr-FR/FrenchPSUG/events/261869405/).
 ### Call for speakers
-
-This year, we have an english track (!). If you are interested in giving a presentation, you can submit a presentation [here](https://docs.google.com/forms/d/e/1FAIpQLSd0Khps45tqPV1qMqzOS6c4y93WNkv-l0dS_yp6rqEBXnLV1w/viewform)
-
-
-## Français
-
-Notre événement PowerShell Saturday approche a grand pas!
-
-Celui-ci aura lieu a Paris, le 12 Octobre 2019 à partir de 9h00.
-
-Pour participer, vous pouvez vous rendre sur le site de notre meetup [ici](https://www.meetup.com/fr-FR/FrenchPSUG/events/261869405/).
-
-## Quand / When
-
-2019/10/12 - 0900-1800
-
-## Tracks
-
-The call for speakers is still open (Take a new challenge and submit a session today!)
-Le Call for speakers est encore ouvert. Investi toi d'un nouveau challenge, et propose une session!
-
-## Call for Speakers
-
-### Proposer une session / Submit a session !
-
-[Call for Speaker](https://docs.google.com/forms/d/e/1FAIpQLSd0Khps45tqPV1qMqzOS6c4y93WNkv-l0dS_yp6rqEBXnLV1w/viewform)
-
-### Format
-
-* Session Français (60min) : Session 1h en français 
-* English Session (60min) : One hour session in english
-
-### Sujets / Topics
-
+Similar to last year, we'll have sessions in both English and French. If you are interested in giving a presentation, you can submit a presentation [here](https://docs.google.com/forms/d/e/1FAIpQLSd0Khps45tqPV1qMqzOS6c4y93WNkv-l0dS_yp6rqEBXnLV1w/viewform)
+#### Session format
+* 45 min session + 5 minutes for Q/A
+### Topics
 * Cloud (AWS, Azure, GCP)
 * DevOps & SRE
 * Security
 * Advanced PowerShell
 * PowerShell & DevOps for Beginners
 * Datas
-
 ## Sponsors
-
 Contact: frpsug @ gmail.com
 
-## Lieu / Where
+<#####>
 
- @ Paris
-
-## Inscription / Registration
-
-[Meetup](https://www.meetup.com/fr-FR/FrenchPSUG/events/261869405/)
+## Français
+Notre événement PowerShell Saturday approche a grand pas!
+Celui-ci aura lieu a Paris, le 12 Octobre 2019 à partir de 9h00.
+## Inscription
+Pour participer, vous pouvez vous rendre sur le site de notre meetup [ici](https://www.meetup.com/fr-FR/FrenchPSUG/events/261869405/)
+### Proposer une presentation
+Comme l'annee derniere, nous planifions d'avoir des sessions en Francais et Anglais. Si vous souhaitez faire une presentation, s'il vous plait remplir le formulaire suivant [Call for Speaker](https://docs.google.com/forms/d/e/1FAIpQLSd0Khps45tqPV1qMqzOS6c4y93WNkv-l0dS_yp6rqEBXnLV1w/viewform)
+#### Format des presentations
+* 45 min presentation + 5 minutes for Q/A
+### Sujets
+* Cloud (AWS, Azure, GCP)
+* DevOps & SRE
+* Security
+* Advanced PowerShell
+* PowerShell & DevOps for Beginners
+* Datas
+## Sponsors
+Contact: frpsug @ gmail.com
