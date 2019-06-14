@@ -30,6 +30,8 @@ Contact: frpsug @ gmail.com
 ## Français
 Notre événement PowerShell Saturday approche a grand pas!
 Celui-ci aura lieu a Paris, le 12 Octobre 2019 à partir de 9h00.
+### Location
+<i>A venir...</i>
 ## Inscription
 Pour participer, vous pouvez vous rendre sur le site de notre meetup [ici](https://www.meetup.com/fr-FR/FrenchPSUG/events/261869405/)
 ### Proposer une presentation
