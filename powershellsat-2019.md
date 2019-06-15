@@ -18,17 +18,18 @@ To register, please use our meetup group [here](https://www.meetup.com/fr-FR/Fre
 ### Call for speakers
 Similar to last year, we'll have sessions in both English and French. If you are interested in giving a presentation, you can submit a presentation [here](https://docs.google.com/forms/d/e/1FAIpQLSd0Khps45tqPV1qMqzOS6c4y93WNkv-l0dS_yp6rqEBXnLV1w/viewform)
 
-#### Session format
+Dead line: 2019/07/15 
+
+#### Session details
 * 45 min session + 5 minutes for Q/A
+* Please share your sessions content (or a link to the content) on [our github](https://github.com/FrPSUG/Presentations).
 
 ### Topics
 * Cloud (AWS, Azure, GCP)
 * DevOps & SRE
 * Security
 * Advanced PowerShell
-* PowerShell & DevOps for Beginners
-* Infrastructure As Code
-* Configuration Management
+* PowerShell & DevOps
 
 ## Sponsors
 Contact: frpsug @ gmail.com
@@ -49,17 +50,18 @@ Pour participer, vous pouvez vous rendre sur le site de notre meetup [ici](https
 ### Proposer une presentation
 Comme l'annee derniere, nous planifions d'avoir des sessions en Francais et Anglais. Si vous souhaitez faire une presentation, s'il vous plait remplir le formulaire suivant [Call for Speaker](https://docs.google.com/forms/d/e/1FAIpQLSd0Khps45tqPV1qMqzOS6c4y93WNkv-l0dS_yp6rqEBXnLV1w/viewform)
 
-#### Format des presentations
+Date limite: 2019/07/15
+
+#### Details de presentation
 * 45 min presentation + 5 minutes for Q/A
+* SVP partager le contenu de votre presentation (ou un lien) sur [notre github](https://github.com/FrPSUG/Presentations).
 
 ### Sujets
 * Cloud (AWS, Azure, GCP)
 * DevOps & SRE
 * Security
 * Advanced PowerShell
-* PowerShell & DevOps for Beginners
-* Infrastructure As Code
-* Configuration Management
+* PowerShell & DevOps
 
 ## Sponsors
 Contact: frpsug @ gmail.com
