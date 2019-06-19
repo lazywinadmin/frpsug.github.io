@@ -43,7 +43,7 @@ Dead line: 2019/07/15
 
 # Sponsors
 
-If you'd like to support the event, please see [the Sponsor page](/pssat2019/sponsors-fr).
+If you'd like to support the event, please see [the Sponsor page](/pssat2019/sponsors-en).
 
 <hr>
 
