@@ -42,16 +42,10 @@ Date limite: 2019/07/15
 
 # Sponsors
 
-Si vous souhaitez soutenir notre evenement, voir [la page sponsors](/sponsors).
-
-<hr>
-
-# Presentateurs
-
-Defini dans quelques semaines...
+Si vous souhaitez soutenir notre evenement, voir [la page sponsors](/sponsors-fr).
 
 <hr>
 
 # Agenda
 
-<i>A venir...</i>
+<i>Sera publier dans quelques semaines...</i>

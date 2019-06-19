@@ -41,7 +41,7 @@ Dead line: 2019/07/15
 
 # Sponsors
 
-If you'd like to support the event, please see [the Sponsor page]().
+If you'd like to support the event, please see [the Sponsor page](/sponsors-en).
 
 <hr>
 
