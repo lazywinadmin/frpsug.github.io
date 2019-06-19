@@ -25,12 +25,12 @@ Comme l'annee derniere, nous planifions d'avoir des sessions en Francais et Angl
 
 Date limite: 2019/07/15
 
-## Details de presentation
+### Details de presentation
 
 * 45 min presentation + 5 minutes for Q/A
 * SVP partager le contenu de votre presentation (ou un lien) sur [notre github](https://github.com/FrPSUG/Presentations).
 
-### Sujets
+#### Sujets des presentations
 
 * Cloud (AWS, Azure, GCP)
 * DevOps & SRE
@@ -42,7 +42,7 @@ Date limite: 2019/07/15
 
 # Sponsors
 
-Si vous souhaitez soutenir notre evenement, voir [la page sponsors](/sponsors-fr).
+Si vous souhaitez soutenir notre evenement, voir [la page sponsors](/pssat2019/sponsors-fr).
 
 <hr>
 
