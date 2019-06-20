@@ -40,6 +40,12 @@ Stéphane à travaillé un peu partout en Europe (France, Belgique, Pays-Bas, Al
 
 ![Laurent Lienhard](/images/organizers/laurent_lienhard.jpg)
 
+Analyste-programmeur de formation et Administrateur Systèmes depuis plus de 10 ans il n’en fallait pas plus pour tomber dans le PowerShelll !
+
+Ce fut chose faite en 2016 par son adhésion au French PowerShell User Group.
+
+Depuis, il automatise le maximum de ces tâches quotidiennes d’Administration et essai d’en faire profiter la communauté à travers son blog naissant. 
+
 * [Blog](https://www.howiautomatedthis.com/)
 * [Twitter](https://twitter.com/IronTUX)
 * [Github](https://github.com/LaurentLienhard)
