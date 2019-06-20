@@ -5,12 +5,12 @@ title: Organisateurs
 
 ## Francois-Xavier Cat
 
-![Francois-Xavier Cat](https://github.com/lazywinadmin.png)
+![Francois-Xavier Cat](/images/organizers/francois-xavier_cat.jpg)
 
 François-Xavier (FX) contribue activement à la communauté PowerShell depuis de nombreuses années, notamment à travers son blog LazyWinadmin et des outils/scripts qu'il met a disposition de tous sur Github/Technet Gallery/PowerShell Gallery.
 
 Francois-Xavier travaille actuellement dans le secteur financier en tant qu'Ingénieur systèmes.
-Il travaille regulièrement avec les produits telque Active Directory, la suite System Center (surtout sur SCCM/ConfigMgr, SCSM, Orchestrator/Scorch), SMA, VMware vSphere, Office365, ...
+Il travaille regulièrement avec les produits telque Azure, Azure DevOps, Chef, Active Directory, System Center (SCCM/ConfigMgr, SCSM, Orchestrator/Scorch), SMA, VMware vSphere, Office365, ...
 
 * [Blog](https://lazywinadmin.github.io)
 * [Twitter](https://twitter.com/lazywinadmin)
@@ -18,7 +18,7 @@ Il travaille regulièrement avec les produits telque Active Directory, la suite 
 
 ## Stéphane van Gulick
 
-![Stéphane van Gulick](https://github.com/stephanevg.png)
+![Stéphane van Gulick](/images/organizers/stephane_van_gulick.jpg)
 
 Le principale objectif de Stéphane est d'aider les services IT de réduire leurs coûts en implémentant des processes ainsi que l'automatisation adéquate utilisant Windows PowerShell.
 
@@ -28,24 +28,18 @@ Stéphane à travaillé un peu partout en Europe (France, Belgique, Pays-Bas, Al
 * [Twitter](https://twitter.com/stephanevg)
 * [Github](https://github.com/stephanevg)
 
-## Micky Balladelli
+## Olivier Miossec
 
-![Micky Balladelli](https://github.com/MickyBalladelli.png)
+![Olivier Miossec](/images/organizers/olivier_miossec.jpg)
 
-Auteur de plusieurs livres à franc succès, Micky est actif dans la région Parisienne ou il automatise principalement tout ce qui touche à l'active Directory.
+* [Blog](https://omiossec.github.io/)
+* [Twitter](https://twitter.com/omiossec_med)
+* [Github](https://github.com/omiossec)
 
-* [Blog](http://www.balladelli.com/)
-* [Twitter](https://twitter.com/mickyballadelli)
-* [Github](https://github.com/mickyballadelli)
+## Laurent Lienhard
 
-## Fabien Dibot
+![Laurent Lienhard](/images/organizers/laurent_lienhard.jpg)
 
-![Micky Balladelli](https://github.com/fabiendibot.png)
-
-Fabien est un architecte cloud reconnu dans tout l'héxagone. Il aide les clients SII à implémenter des clouds.
-
-Fabien est localisé dans la région Rennaise, et est toujours partant, pour une bonne bière Belge ;)
-
-* [Blog](https://pwrshell.net/)
-* [Twitter](https://twitter.com/fdibot)
-* [Github](https://github.com/fabiendibot)
+* [Blog](https://www.howiautomatedthis.com/)
+* [Twitter](https://twitter.com/IronTUX)
+* [Github](https://github.com/LaurentLienhard)
