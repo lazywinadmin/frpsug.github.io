@@ -32,7 +32,14 @@ Stéphane à travaillé un peu partout en Europe (France, Belgique, Pays-Bas, Al
 
 ![Olivier Miossec](/images/organizers/olivier_miossec.jpg)
 
+Parisien d’adoption mais à l’aise dans toutes les villes, Olivier a fait toute sa carrière dans le monde du Web et de l’hébergement où il a occupé des postes comme responsable R&D ou CTO.  
+
+Il travaille en tant que consultant expert sur les problématiques DevOps, l’agilité des infras, le Cloud Public, la modernisation des infras, l’automatisation des processus et bien sur la programmation sur PowerShell. 
+Ces principaux projets concernent Azure DevOps, Azure Functions, les infras sur Azure…
+Il aime particulièrement travailler avec PowerShell Core, VsCode et Git
+
 * [Blog](https://omiossec.github.io/)
+* [Blog EN](https://dev.to/omiossec)
 * [Twitter](https://twitter.com/omiossec_med)
 * [Github](https://github.com/omiossec)
 
