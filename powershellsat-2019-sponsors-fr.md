@@ -9,10 +9,10 @@ permalink : "/pssat2019/sponsors-fr"
 
 # Details de l'évènement
 
-Le French PowerShell User Group (FrPSUG) organise son 3eme évènement annuel, le PowerShell Saturday Paris, le 12 Octobre 2019.
+Le French PowerShell User Group (FrPSUG) organise pour la 3ème année consécutive son évènement annuel: le [PowerShell Saturday Paris](https://frpsug.com/powershellsat-2019/). Cette année il aura lieu le 12 Octobre 2019.
 
 * Evenement organiser une fois par an depuis 2017
-* Gratuit et organisé par la communaute PowerShell francophone
+* Gratuit et organisé par le [FrPSUG](http://frpsug.com)
 * Sujets couvert:
   * PowerShell Scripting language
   * Public Cloud
@@ -27,14 +27,14 @@ Le French PowerShell User Group (FrPSUG) organise son 3eme évènement annuel, l
   * Administrateurs Systèmes
   * Ingénieurs Systèmes, Ingénieurs DevOps, SRE
   * CTO
-  * De nombreux MVP présents
+  * De nombreux [MVP](https://mvp.microsoft.com/fr-fr/overview) de France et d'Europe font le déplacement
   * Conférenciers français et internationaux
 
 Previous events: [2017](https://www.meetup.com/FrenchPSUG/events/239169341/), [2018](https://www.meetup.com/FrenchPSUG/events/247765024/)
 
 # Forfaits de parrainage disponibles
 
-## Platinium - 1200€
+## Platinium
 
 [Formulaire de parrainage](https://docs.google.com/forms/d/e/1FAIpQLSc5vnWfNBov1hT15xwjGSTiMcZNkGHADg0nfVxDM4Fy1krz8g/viewform?usp=sf_link)
 
@@ -47,7 +47,7 @@ Previous events: [2017](https://www.meetup.com/FrenchPSUG/events/239169341/), [2
 * Votre logo sur chaque présentation (également disponible sur le Web après la conférence)
 * Votre logo sur le site Meetup et sur les réseaux sociaux
 
-## Gold - 900€
+## Gold
 
 [Formulaire de parrainage](https://docs.google.com/forms/d/e/1FAIpQLSc5vnWfNBov1hT15xwjGSTiMcZNkGHADg0nfVxDM4Fy1krz8g/viewform?usp=sf_link)
 
@@ -56,14 +56,14 @@ Previous events: [2017](https://www.meetup.com/FrenchPSUG/events/239169341/), [2
 * Votre logo sur chaque présentation (également disponible sur le Web après la conférence)
 * Votre logo sur le site Meetup et sur les réseaux sociaux
 
-## Silver - 600€
+## Silver
 
 [Formulaire de parrainage](https://docs.google.com/forms/d/e/1FAIpQLSc5vnWfNBov1hT15xwjGSTiMcZNkGHADg0nfVxDM4Fy1krz8g/viewform?usp=sf_link)
 
 * Votre logo sur chaque présentation (également disponible sur le Web après la conférence)
 * Votre logo sur le site Meetup et sur les réseaux sociaux
 
-## Bronze - 300€
+## Bronze
 
 [Formulaire de parrainage](https://docs.google.com/forms/d/e/1FAIpQLSc5vnWfNBov1hT15xwjGSTiMcZNkGHADg0nfVxDM4Fy1krz8g/viewform?usp=sf_link)
 
