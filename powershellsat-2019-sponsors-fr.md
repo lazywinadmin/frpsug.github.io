@@ -7,12 +7,12 @@ permalink : "/pssat2019/sponsors-fr"
 
 [PowerShell Saturday 2019 @ Paris](/powershellsat-2019)
 
-# Details de l'evenement
+# Details de l'évènement
 
-Le French PowerShell User Group (FRPSUG) organise son 3eme evenement annuel, le PowerShell Saturday Paris, tenu le 12 Octobre 2019 a Paris.
+Le French PowerShell User Group (FrPSUG) organise son 3eme évènement annuel, le PowerShell Saturday Paris, le 12 Octobre 2019.
 
-* Evenement organiser une fois par annee depuis 2017
-* Gratuit et organiser par la communaute PowerShell francophone
+* Evenement organiser une fois par an depuis 2017
+* Gratuit et organisé par la communaute PowerShell francophone
 * Sujets couvert:
   * PowerShell Scripting language
   * Public Cloud
@@ -20,51 +20,51 @@ Le French PowerShell User Group (FRPSUG) organise son 3eme evenement annuel, le 
   * DevOps & SRE
   * Data
   * Security
-* 2 tracks which allow us to have between 12 and 15 sessions
-* Attendees: 60 to 100 attendees
-  * Tech Leaders
-  * Team Managers
-  * Systems Administrators
-  * Systems Engineers, DevOps Engineers, SRE
-  * CTO and team leader
-  * Many Microsoft Most Valuable Professionals (MVP)
-  * French and international Speakers
+* 2 tracks permettant d'avoir entre 12 et 15 sessions
+* Participants : 60 à 100
+  * Leaders Technique
+  * Chefs d'équipes
+  * Administrateurs Systèmes
+  * Ingénieurs Systèmes, Ingénieurs DevOps, SRE
+  * CTO
+  * De nombreux MVP présents
+  * Conférenciers français et internationaux
 
 Previous events: [2017](https://www.meetup.com/FrenchPSUG/events/239169341/), [2018](https://www.meetup.com/FrenchPSUG/events/247765024/)
 
-# Sponsorship Packages Available
+# Forfaits de parrainage disponibles
 
 ## Platinium - 1200€
 
-[Sponsorship form](https://docs.google.com/forms/d/e/1FAIpQLSc5vnWfNBov1hT15xwjGSTiMcZNkGHADg0nfVxDM4Fy1krz8g/viewform?usp=sf_link)
+[Formulaire de parrainage](https://docs.google.com/forms/d/e/1FAIpQLSc5vnWfNBov1hT15xwjGSTiMcZNkGHADg0nfVxDM4Fy1krz8g/viewform?usp=sf_link)
 
-* 5 minutes presentation in the Keynote
-* A 45’ session to present your product
-* Your logo on every presentation slide
-* Your name on a room
-* A stand in the conference lobby
-* Access to the attendees list
-* Your logo on every presentation (also available on the web after the conference)
-* Your logo on the Meetup site and on social media
+* 5 minutes de présentation dans le Keynote
+* Une session de 45 'pour présenter votre produit
+* Votre logo sur chaque diapositive de présentation
+* Une salle à votre nom
+* Un stand dans le hall de la conférence
+* Accès à la liste des participants
+* Votre logo sur chaque présentation (également disponible sur le Web après la conférence)
+* Votre logo sur le site Meetup et sur les réseaux sociaux
 
 ## Gold - 900€
 
-[Sponsorship form](https://docs.google.com/forms/d/e/1FAIpQLSc5vnWfNBov1hT15xwjGSTiMcZNkGHADg0nfVxDM4Fy1krz8g/viewform?usp=sf_link)
+[Formulaire de parrainage](https://docs.google.com/forms/d/e/1FAIpQLSc5vnWfNBov1hT15xwjGSTiMcZNkGHADg0nfVxDM4Fy1krz8g/viewform?usp=sf_link)
 
-* A stand in the conference lobby
-* Access to the attendees list
-* Your logo on every presentation (also available on the web after the conference)
-* Your logo on the Meetup site and on social media
+* Un stand dans le hall de la conférence
+* Accès à la liste des participants
+* Votre logo sur chaque présentation (également disponible sur le Web après la conférence)
+* Votre logo sur le site Meetup et sur les réseaux sociaux
 
 ## Silver - 600€
 
-[Sponsorship form](https://docs.google.com/forms/d/e/1FAIpQLSc5vnWfNBov1hT15xwjGSTiMcZNkGHADg0nfVxDM4Fy1krz8g/viewform?usp=sf_link)
+[Formulaire de parrainage](https://docs.google.com/forms/d/e/1FAIpQLSc5vnWfNBov1hT15xwjGSTiMcZNkGHADg0nfVxDM4Fy1krz8g/viewform?usp=sf_link)
 
-* Your logo on every presentation (also available on the web after the conference)
-* Your logo on the Meetup site and on social media
+* Votre logo sur chaque présentation (également disponible sur le Web après la conférence)
+* Votre logo sur le site Meetup et sur les réseaux sociaux
 
 ## Bronze - 300€
 
-[Sponsorship form](https://docs.google.com/forms/d/e/1FAIpQLSc5vnWfNBov1hT15xwjGSTiMcZNkGHADg0nfVxDM4Fy1krz8g/viewform?usp=sf_link)
+[Formulaire de parrainage](https://docs.google.com/forms/d/e/1FAIpQLSc5vnWfNBov1hT15xwjGSTiMcZNkGHADg0nfVxDM4Fy1krz8g/viewform?usp=sf_link)
 
-* Your logo on the Meetup site and on social media
+* Votre logo sur le site Meetup et sur les réseaux sociaux
