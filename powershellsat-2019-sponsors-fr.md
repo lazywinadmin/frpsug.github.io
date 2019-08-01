@@ -34,7 +34,7 @@ Previous events: [2017](https://www.meetup.com/FrenchPSUG/events/239169341/), [2
 
 # Forfaits de parrainage disponibles
 
-## Platinium
+## Platinium - 1200€
 
 [Formulaire de parrainage](https://docs.google.com/forms/d/e/1FAIpQLSc5vnWfNBov1hT15xwjGSTiMcZNkGHADg0nfVxDM4Fy1krz8g/viewform?usp=sf_link)
 
@@ -47,7 +47,7 @@ Previous events: [2017](https://www.meetup.com/FrenchPSUG/events/239169341/), [2
 * Votre logo sur chaque présentation (également disponible sur le Web après la conférence)
 * Votre logo sur le site Meetup et sur les réseaux sociaux
 
-## Gold
+## Gold - 900€
 
 [Formulaire de parrainage](https://docs.google.com/forms/d/e/1FAIpQLSc5vnWfNBov1hT15xwjGSTiMcZNkGHADg0nfVxDM4Fy1krz8g/viewform?usp=sf_link)
 
@@ -56,14 +56,14 @@ Previous events: [2017](https://www.meetup.com/FrenchPSUG/events/239169341/), [2
 * Votre logo sur chaque présentation (également disponible sur le Web après la conférence)
 * Votre logo sur le site Meetup et sur les réseaux sociaux
 
-## Silver
+## Silver - 600€
 
 [Formulaire de parrainage](https://docs.google.com/forms/d/e/1FAIpQLSc5vnWfNBov1hT15xwjGSTiMcZNkGHADg0nfVxDM4Fy1krz8g/viewform?usp=sf_link)
 
 * Votre logo sur chaque présentation (également disponible sur le Web après la conférence)
 * Votre logo sur le site Meetup et sur les réseaux sociaux
 
-## Bronze
+## Bronze - 300€
 
 [Formulaire de parrainage](https://docs.google.com/forms/d/e/1FAIpQLSc5vnWfNBov1hT15xwjGSTiMcZNkGHADg0nfVxDM4Fy1krz8g/viewform?usp=sf_link)
 
