@@ -34,7 +34,7 @@ Previous events: [2017](https://www.meetup.com/FrenchPSUG/events/239169341/), [2
 
 # Sponsorship Packages Available
 
-## Platinium
+## Platinium - 1200€
 
 [Sponsorship form](https://docs.google.com/forms/d/e/1FAIpQLSc5vnWfNBov1hT15xwjGSTiMcZNkGHADg0nfVxDM4Fy1krz8g/viewform?usp=sf_link)
 
@@ -47,7 +47,7 @@ Previous events: [2017](https://www.meetup.com/FrenchPSUG/events/239169341/), [2
 * Your logo on every presentation (also available on the web after the conference)
 * Your logo on the Meetup site and on social media
 
-## Gold
+## Gold - 900€
 
 [Sponsorship form](https://docs.google.com/forms/d/e/1FAIpQLSc5vnWfNBov1hT15xwjGSTiMcZNkGHADg0nfVxDM4Fy1krz8g/viewform?usp=sf_link)
 
@@ -56,14 +56,14 @@ Previous events: [2017](https://www.meetup.com/FrenchPSUG/events/239169341/), [2
 * Your logo on every presentation (also available on the web after the conference)
 * Your logo on the Meetup site and on social media
 
-## Silver
+## Silver - 600€
 
 [Sponsorship form](https://docs.google.com/forms/d/e/1FAIpQLSc5vnWfNBov1hT15xwjGSTiMcZNkGHADg0nfVxDM4Fy1krz8g/viewform?usp=sf_link)
 
 * Your logo on every presentation (also available on the web after the conference)
 * Your logo on the Meetup site and on social media
 
-## Bronze
+## Bronze - 300€
 
 [Sponsorship form](https://docs.google.com/forms/d/e/1FAIpQLSc5vnWfNBov1hT15xwjGSTiMcZNkGHADg0nfVxDM4Fy1krz8g/viewform?usp=sf_link)
 
