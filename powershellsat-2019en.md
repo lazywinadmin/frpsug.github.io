@@ -17,7 +17,7 @@ Cellenza - 156 Boulevard Haussmann, 75008 Paris, France [Google Maps](https://go
 
 ## Registration
 
-Registration are handled by [our meetup.com group page](https://www.meetup.com/fr-FR/FrenchPSUG/events/261869405/).
+Registration are handled by [our eventbrite.com event page](https://pssatparis2019.eventbrite.com).
 
 ## Call for speakers
 
