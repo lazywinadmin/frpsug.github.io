@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PowerShell Saturday Paris 2019
+title: PowerShell Saturday Paris 2019 Agenda
 bigimg: "/images/headers/Header-2019.jpg"
 ---
 
@@ -17,10 +17,10 @@ bigimg: "/images/headers/Header-2019.jpg"
     <td colspan="2" style="text-align:center">9:30 - 10:20</td>
   </tr>
     <tr>
-    <td> Room A</td> <td> Room B</td>
+    <td style="text-align:center"> <b>Room A</b></td> <td style="text-align:center"> <b>Room B</b></td>
   </tr>
     <tr>
-    <td> Platinium Keynote</td> <td> Bartosz Bielawski<Br>
+    <td> Platinium Keynote</td> <td> <b>Bartosz Bielawski</b><Br>
     Authoring class based DSC resources – notes from the field
     </td>
   </tr>
@@ -28,9 +28,9 @@ bigimg: "/images/headers/Header-2019.jpg"
     <td colspan="2" style="text-align:center">10:30 - 11:20</td>
   </tr>
     <tr>
-    <td> Chris Gardner <br/>
+    <td> <b>Chris Gardner</b> <br/>
     Validating ARM templates with Pester and PowerShell Classes</td> <td>
-    David Johnson<br/>
+    <b>David Johnson</b><br/>
     Bitwise Operators : Going bare-metal with your bytes and booleans
     </td>
   </tr>
@@ -38,9 +38,9 @@ bigimg: "/images/headers/Header-2019.jpg"
     <td colspan="2" style="text-align:center">11:30 - 12:20</td>
   </tr>
     <tr>
-    <td> Amanda Debler<br/>
+    <td> <b>Amanda Debler</b><br/>
     Docker for Windows Admins
-    </td> <td>Bartosz Bielawski<Br>
+    </td> <td><b>Bartosz Bielawski</b><Br>
     Pester against sloppiness: standards enforced.
      </td>
   </tr>
@@ -52,7 +52,7 @@ bigimg: "/images/headers/Header-2019.jpg"
     <td colspan="2" style="text-align:center">14:00 - 14:50</td>
   </tr>
   <tr>
-    <td> Room A</td> <td> Room B</td>
+    <td style="text-align:center"><b>Room A</b></td> <td style="text-align:center"> <b>Room B</b></td>
   </tr>
     <tr>
     <td>Platinium Keynote</td> <td> To Be Confirmed</td>
@@ -61,7 +61,7 @@ bigimg: "/images/headers/Header-2019.jpg"
     <td colspan="2" style="text-align:center">15:00 - 15:50</td>
   </tr>
     <tr>
-    <td> Benoit Sautière <br/>
+    <td> <b>Benoit Sautière</b> <br/>
     Manage Azure at large scale with Powershell : Notes from the Field
     </td> <td> To Be Confirmed</td>
   </tr>
@@ -69,7 +69,7 @@ bigimg: "/images/headers/Header-2019.jpg"
     <td colspan="2" style="text-align:center">16:00 - 16:50</td>
   </tr>
     <tr>
-    <td> To Be Confirmed</td> <td>Amanda Debler<br/>
+    <td> To Be Confirmed</td> <td><b>Amanda Debler</b><br/>
     Kubernetes for Windows Admins
     </td>
   </tr>
