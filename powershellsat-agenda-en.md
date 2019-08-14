@@ -46,7 +46,7 @@ bigimg: "/images/headers/Header-2019.jpg"
   </tr>
     <tr>
     <td colspan="2" style="text-align:center">12:30 - 14:00<br/>
-    Lunch and Breakout sessions</td>
+    Lunch and Lightning Demos</td>
   </tr>
  <tr>
     <td colspan="2" style="text-align:center">14:00 - 14:50</td>

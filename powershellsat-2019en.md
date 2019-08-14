@@ -23,6 +23,9 @@ Registration are handled by [our eventbrite.com event page](https://pssatparis20
 
 The call for speaker is close
 
+Slot are available for lightning demos. 
+Lightning demos are a short session, 10 minutes maximum, where you can demonstrate a point or show a technique. It can be a presentation or only the demo. The only rules are, it's related to PowerShell and it fit the 10 minutes format.
+You can submit a proposal [here](https://forms.gle/2UbRtkfxN3rHWmzK9)
 
 Dead line: 2019/07/31
 

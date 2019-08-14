@@ -23,6 +23,10 @@ Les inscriptions sont gerer sur [notre site eventbrite.com pour l'évenement](ht
 
 Le Call for speaker est maintenant fermé
 
+Des sessions sont encore disponible pour les lightning demos.
+Les lightning demos sont des courtes présentations où vous pouvez démontrer quelques chose ou présenter une technique. Cela peut être une présentation ou juste une démo. Les seules règles: que cela ne dépasse pas 10 minutes et avoir un lien avec PowerShell.
+Vous pouvez soumètre votre proposition [ici](https://forms.gle/2UbRtkfxN3rHWmzK9)
+
 Date limite: 2019/07/31
 
 ### Details de presentation
