@@ -21,7 +21,7 @@ Les inscriptions sont gerer sur [notre site eventbrite.com pour l'évenement](ht
 
 ## Proposer une presentation
 
-Comme l'annee derniere, nous planifions d'avoir des sessions en Francais et Anglais. Si vous souhaitez faire une presentation, s'il vous plait remplir le formulaire suivant [Call for Speaker](https://docs.google.com/forms/d/e/1FAIpQLSd0Khps45tqPV1qMqzOS6c4y93WNkv-l0dS_yp6rqEBXnLV1w/viewform)
+Le Call for speaker est maintenant fermé
 
 Date limite: 2019/07/31
 

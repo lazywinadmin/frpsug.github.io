@@ -21,8 +21,8 @@ Registration are handled by [our eventbrite.com event page](https://pssatparis20
 
 ## Call for speakers
 
-Similar to last year, we'll have sessions in both English and French.
-If you wish to present, please submit a presentation on the following form [here](https://docs.google.com/forms/d/e/1FAIpQLSd0Khps45tqPV1qMqzOS6c4y93WNkv-l0dS_yp6rqEBXnLV1w/viewform)
+The call for speaker is close
+
 
 Dead line: 2019/07/31
 
