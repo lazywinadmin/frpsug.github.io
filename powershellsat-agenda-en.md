@@ -69,8 +69,9 @@ bigimg: "/images/headers/Header-2019.jpg"
     <td colspan="2" style="text-align:center">16:00 - 16:50</td>
   </tr>
     <tr>
-    <td> To Be Confirmed</td> <td><b>Amanda Debler</b><br/>
-    Kubernetes for Windows Admins
+    <td><b>Amanda Debler</b><br/>
+    Kubernetes for Windows Admins</td> <td>
+    <b>Arnaud Petitjean</b><br/>Scraper le Web sans utiliser de Regex 
     </td>
   </tr>
     <tr>
