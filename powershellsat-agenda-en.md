@@ -38,9 +38,10 @@ bigimg: "/images/headers/Header-2019.jpg"
     <td colspan="2" style="text-align:center">11:30 - 12:20</td>
   </tr>
     <tr>
-    <td> <b>Amanda Debler</b><br/>
-    Docker for Windows Admins
-    </td> <td><b>Bartosz Bielawski</b><Br>
+    <td> 
+    <b>Damien VAN ROBAEYS</b><br/>
+Créer des interfaces graphiques Metro design pour vos applications
+    </td> <td><b>Bartosz Bielawski</b><Br/>
     Pester against sloppiness: standards enforced.
      </td>
   </tr>
@@ -55,7 +56,8 @@ bigimg: "/images/headers/Header-2019.jpg"
     <td style="text-align:center"><b>Room A</b></td> <td style="text-align:center"> <b>Room B</b></td>
   </tr>
     <tr>
-    <td>Platinium Keynote</td> <td> To Be Confirmed</td>
+    <td>Platinium Keynote</td> <td> <b>Amanda Debler</b><br/>
+    Docker for Windows Admins</td>
   </tr>
  <tr>
     <td colspan="2" style="text-align:center">15:00 - 15:50</td>
@@ -63,7 +65,9 @@ bigimg: "/images/headers/Header-2019.jpg"
     <tr>
     <td> <b>Benoit Sautière</b> <br/>
     Manage Azure at large scale with Powershell : Notes from the Field
-    </td> <td> To Be Confirmed</td>
+    </td> <td> <b>Daniel Krebs</b><br/>
+    Chef Habitat & PowerShell: Build and deploy and manage all applications the same way
+    </td>
   </tr>
  <tr>
     <td colspan="2" style="text-align:center">16:00 - 16:50</td>
