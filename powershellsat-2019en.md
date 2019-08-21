@@ -67,16 +67,14 @@ Thanks to our wonderful sponsors! We extend our sincere appreciation to our spon
 
 ## Sponsors Platinium
 
-[<img src="/images/sponsors/scriptrunner.png" width="40%">](https://www.scriptrunner.com/)
-[<img src="/images/sponsors/metsys.png" width="25%">](https://www.metsys.fr/)
+[<img src="/images/sponsors/scriptrunner.png" width="50%">](https://www.scriptrunner.com/)
+[<img src="/images/sponsors/metsys.png" width="35%">](https://www.metsys.fr/)
 
 ## Sponsors Gold
-
-[<img src="/images/sponsors/cellenza_.png" width="40%">](https://www.cellenza.com/)
+[<img src="/images/sponsors/cellenza_.png" width="30%">](https://www.cellenza.com/)
 
 ## Sponsors Silver
-
-[<img src="/images/sponsors/chocolatey.png" width="40%">](https://chocolatey.org/)
+[<img src="/images/sponsors/chocolatey.png" width="30%">](https://chocolatey.org/)
 
 If you'd like to support the event, please see [the Sponsor page](/pssat2019/sponsors-en).
 
