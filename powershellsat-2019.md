@@ -20,6 +20,7 @@ Celui-ci aura lieu a Paris, le 12 Octobre 2019 à partir de 9h00.
 * [Sponsors](#sponsors)
 * [Agenda](#agenda)
 
+<hr>
 
 ## Location
 
@@ -27,11 +28,15 @@ Cellenza - 156 Boulevard Haussmann, 75008 Paris, France [Google Maps](https://go
 
 [![](/images/cellenza2.png)](https://goo.gl/maps/fww4JUjUByjLzwWL8)
 
+<hr>
+
 ## Inscription
 
 Les inscriptions sont gerer sur [notre site eventbrite.com pour l'évenement](https://pssatparis2019.eventbrite.com)
 
 **Fermeture des inscriptions le 22 Septembre 2019**
+
+<hr>
 
 ## Proposer une presentation
 
