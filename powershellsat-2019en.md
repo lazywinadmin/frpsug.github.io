@@ -19,6 +19,8 @@ Cellenza - 156 Boulevard Haussmann, 75008 Paris, France [Google Maps](https://go
 
 Registration is via our [eventbrite.com event page](https://pssatparis2019.eventbrite.com).
 
+Registration closing date: Sunday 22nd of September 2019
+
 ## Call for speakers
 
 The call for speakers is now closed.
