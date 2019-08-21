@@ -1,9 +1,3 @@
----
-layout: page
-title: PowerShell Saturday Paris 2019 - Agenda
-bigimg: "/images/headers/Header-2019.jpg"
----
-
 <table style="width:80%">
   <tr>
     <td colspan="2" style="text-align:center">8:30 - 9:00<br/>
