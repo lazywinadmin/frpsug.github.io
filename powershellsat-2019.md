@@ -10,8 +10,8 @@ bigimg: "/images/headers/Header-2019.jpg"
 
 ![](https://github.com/FrPSUG/frpsug.github.io/raw/master/images/iconfinder_Saint-Barthelemy-Flag_32318(1).png)
 
-Notre événement PowerShell Saturday approche a grand pas!
-Celui-ci aura lieu a Paris, le 12 Octobre 2019 à partir de 9h00.
+Notre événement '**PowerShell Saturday**' approche a grand pas!
+Celui-ci aura lieu a Paris, le **12 Octobre 2019** à partir de 9h00.
 
 <hr>
 
