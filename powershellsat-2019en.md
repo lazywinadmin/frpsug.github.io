@@ -13,7 +13,14 @@ bigimg: "/images/headers/Header-2019.jpg"
 Our event: 'PowerShell Saturday' is almost here!
 It will be held in Paris on the 12th of October 2019 from 9:00am.
 
-{:toc}
+
+* [Location](#location)
+* [Registration](#registration)
+* [Call for speakers](#call-for-speakers)
+* [Sponsors](#sponsors)
+* [Agenda](#agenda)
+
+
 
 ## Location
 
