@@ -52,6 +52,24 @@ You can submit a proposal [here](https://forms.gle/2UbRtkfxN3rHWmzK9)
 
 # Sponsors
 
+Thanks to our wonderful sponsors! We extend our sincere appreciation to our sponsors, without whom our event would not be possible.
+
+## Sponsors Platinium - SCRIPTRUNNER
+
+[<img src="/images/sponsors/scriptrunner.png" width="40%">](https://www.scriptrunner.com/)
+
+## Sponsors Platinium - METSYS
+
+[<img src="/images/sponsors/metsys.png" width="40%">](https://www.metsys.fr/)
+
+## Sponsors Gold - CELLENZA
+
+[<img src="/images/sponsors/cellenza_.png" width="40%">](https://www.cellenza.com/)
+
+## Sponsors Silver - CHOCOLATEY
+
+[<img src="/images/sponsors/chocolatey.png" width="40%">](https://chocolatey.org/)
+
 If you'd like to support the event, please see [the Sponsor page](/pssat2019/sponsors-en).
 
 <hr>
