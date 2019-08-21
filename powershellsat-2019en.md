@@ -6,7 +6,7 @@ bigimg: "/images/headers/Header-2019.jpg"
 
 <b>[francais](/powershellsat-2019) - [english](/powershellsat-2019en)</b>
 
-(English ![](https://github.com/FrPSUG/frpsug.github.io/raw/master/images/iconfinder_United-Kingdom-flag_32363.png)) 
+![](https://github.com/FrPSUG/frpsug.github.io/raw/master/images/iconfinder_United-Kingdom-flag_32363.png)
 
 Our event: 'PowerShell Saturday' is almost here!
 It will be held in Paris on the 12th of October 2019 from 9:00am.
