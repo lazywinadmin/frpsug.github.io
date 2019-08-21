@@ -6,7 +6,7 @@ bigimg: "/images/headers/Header-2019.jpg"
 
 <b>[francais](/powershellsat-2019) - [english](/powershellsat-2019en)</b>
 
-# Details (francais ![](https://github.com/FrPSUG/frpsug.github.io/raw/master/images/iconfinder_Saint-Barthelemy-Flag_32318(1).png))
+![](https://github.com/FrPSUG/frpsug.github.io/raw/master/images/iconfinder_Saint-Barthelemy-Flag_32318(1).png)
 
 Notre événement PowerShell Saturday approche a grand pas!
 Celui-ci aura lieu a Paris, le 12 Octobre 2019 à partir de 9h00.
@@ -18,6 +18,8 @@ Cellenza - 156 Boulevard Haussmann, 75008 Paris, France [Google Maps](https://go
 ## Inscription
 
 Les inscriptions sont gerer sur [notre site eventbrite.com pour l'évenement](https://pssatparis2019.eventbrite.com)
+
+Fermeture des inscriptions le 22 Septembre 2019.
 
 ## Proposer une presentation
 
