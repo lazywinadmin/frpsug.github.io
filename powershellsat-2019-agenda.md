@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PowerShell Saturday Paris 2019 Agenda
+title: PowerShell Saturday Paris 2019 - Agenda
 bigimg: "/images/headers/Header-2019.jpg"
 ---
 
