@@ -37,13 +37,30 @@ Registration is via our [eventbrite.com event page](https://pssatparis2019.event
 
 **Registration closing date: Sunday 22nd of September 2019**
 
+<u>Two tickets types are available to you:</u>
+
+* **Regular ticket 21€**
+* **Student / Unemployed ticket** please read below (Free / Limited)
+
+### Note on the Student/Unemployed ticket
+
+Up to now we organized the previous instances of the PowerShell Saturday in Paris for free. However organizing such event comes with a high cost for the organizers.
+
+We wanted to keep this event accessible to everyone, especially for student and unemployed persons.
+For this reason we kept a few free tickets to cover these scenarios. We won't check student card or unemployement information. However keep in mind that you are taking away a spot from someone if you don't meet these conditions :(
+
+We tried to keep the event affordable (21€) so please take the regular ticket if you can afford it :)
+
+Note that the student/unemployed ticket give access to same content as the regular ticket with the exception of the t-shirt (Only regular ticket will get a PowerShell Saturday Paris 2019 t-shirt).
+
 <hr>
 
 ## Call for speakers
 
-The call for speakers is now closed.
+**The call for speakers is now closed.**
 
-Slots are still available for lightning demos. 
+Some slots are still available for lightning demos happening during the lunch time.
+
 Lightning demos are a short session, up to 10 minutes, where you can demonstrate a point or show a technique. It can be a presentation or just the demo. The only rules are, it's related to PowerShell and it fits the 10 minutes format.
 You can submit a proposal [here](https://forms.gle/2UbRtkfxN3rHWmzK9)
 
