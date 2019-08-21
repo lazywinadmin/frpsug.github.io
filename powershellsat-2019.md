@@ -25,7 +25,7 @@ Cellenza - 156 Boulevard Haussmann, 75008 Paris, France [Google Maps](https://go
 
 Les inscriptions sont gerer sur [notre site eventbrite.com pour l'évenement](https://pssatparis2019.eventbrite.com)
 
-Fermeture des inscriptions le 22 Septembre 2019.
+**Fermeture des inscriptions le 22 Septembre 2019**
 
 ## Proposer une presentation
 
@@ -53,6 +53,25 @@ Date limite: 2019/07/31
 <hr>
 
 # Sponsors
+
+Un enorme merci a tous nos sponsors sans quoi cette evenement ne serait possible !!!
+
+## Sponsors Platinium - SCRIPTRUNNER
+
+[<img src="/images/sponsors/scriptrunner.png" width="40%">](https://www.scriptrunner.com/)
+
+## Sponsors Platinium - METSYS
+
+[<img src="/images/sponsors/metsys.png" width="40%">](https://www.metsys.fr/)
+
+## Sponsors Gold - CELLENZA
+
+[<img src="/images/sponsors/cellenza_.png" width="40%">](https://www.cellenza.com/)
+
+## Sponsors Silver - CHOCOLATEY
+
+[<img src="/images/sponsors/chocolatey.png" width="40%">](https://chocolatey.org/)
+
 
 Si vous souhaitez soutenir notre evenement, voir [la page sponsors](/pssat2019/sponsors-fr).
 
