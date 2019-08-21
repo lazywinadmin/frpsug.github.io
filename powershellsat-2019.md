@@ -15,7 +15,7 @@ Celui-ci aura lieu a Paris, le 12 Octobre 2019 à partir de 9h00.
 
 Cellenza - 156 Boulevard Haussmann, 75008 Paris, France [Google Maps](https://goo.gl/maps/fww4JUjUByjLzwWL8)
 
-![](/images/cellenza.png)
+[![](/images/cellenza2.png)](https://goo.gl/maps/fww4JUjUByjLzwWL8)
 
 ## Inscription
 
