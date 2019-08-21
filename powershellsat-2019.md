@@ -13,6 +13,7 @@ bigimg: "/images/headers/Header-2019.jpg"
 Notre événement PowerShell Saturday approche a grand pas!
 Celui-ci aura lieu a Paris, le 12 Octobre 2019 à partir de 9h00.
 
+<hr>
 
 * [Location](#location)
 * [Inscription](#inscription)
@@ -67,21 +68,16 @@ Date limite: 2019/07/31
 
 Merci a tous nos sponsors! Nous remercions chaleureusement tous ses sponsors qui par leur soutien et leur fidélité nous permettent d'organiser ce type d'evenement.
 
-## Sponsors Platinium - SCRIPTRUNNER
+## Sponsors Platinium
 
-[<img src="/images/sponsors/scriptrunner.png" width="40%">](https://www.scriptrunner.com/)
+[<img src="/images/sponsors/scriptrunner.png" width="50%">](https://www.scriptrunner.com/)
+[<img src="/images/sponsors/metsys.png" width="35%">](https://www.metsys.fr/)
 
-## Sponsors Platinium - METSYS
+## Sponsors Gold
+[<img src="/images/sponsors/cellenza_.png" width="30%">](https://www.cellenza.com/)
 
-[<img src="/images/sponsors/metsys.png" width="40%">](https://www.metsys.fr/)
-
-## Sponsors Gold - CELLENZA
-
-[<img src="/images/sponsors/cellenza_.png" width="40%">](https://www.cellenza.com/)
-
-## Sponsors Silver - CHOCOLATEY
-
-[<img src="/images/sponsors/chocolatey.png" width="40%">](https://chocolatey.org/)
+## Sponsors Silver
+[<img src="/images/sponsors/chocolatey.png" width="30%">](https://chocolatey.org/)
 
 
 Si vous souhaitez soutenir notre evenement, voir [la page sponsors](/pssat2019/sponsors-fr).
