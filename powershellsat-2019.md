@@ -52,6 +52,4 @@ Si vous souhaitez soutenir notre evenement, voir [la page sponsors](/pssat2019/s
 
 # Agenda
 
-<i>Sera publier dans quelques semaines...</i>
-
 {% include_relative powershellsat-2019-agenda.md %}
