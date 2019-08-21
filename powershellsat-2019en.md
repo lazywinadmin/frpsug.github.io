@@ -13,6 +13,8 @@ bigimg: "/images/headers/Header-2019.jpg"
 Our event: 'PowerShell Saturday' is almost here!
 It will be held in Paris on the 12th of October 2019 from 9:00am.
 
+{:toc}
+
 ## Location
 
 Cellenza - 156 Boulevard Haussmann, 75008 Paris, France [Google Maps](https://goo.gl/maps/fww4JUjUByjLzwWL8)
