@@ -54,7 +54,7 @@ Date limite: 2019/07/31
 
 # Sponsors
 
-Un enorme merci a tous nos sponsors sans quoi cette evenement ne serait possible !!!
+Merci a tous nos sponsors! Nous remercions chaleureusement tous ses sponsors qui par leur soutien et leur fidélité nous permettent d'organiser ce type d'evenement.
 
 ## Sponsors Platinium - SCRIPTRUNNER
 
