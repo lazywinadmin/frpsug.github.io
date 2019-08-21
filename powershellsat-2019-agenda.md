@@ -33,7 +33,7 @@
   </tr>
     <tr>
     <td> 
-    <b>Damien VAN ROBAEYS</b><br/>
+    <b>Damien VAN ROBAEYS / Jerome BEZET-TORRES /</b><br/>
 Créer des interfaces graphiques Metro design pour vos applications
     </td> <td><b>Bartosz Bielawski</b><Br/>
     Pester against sloppiness: standards enforced.
