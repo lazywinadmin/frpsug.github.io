@@ -44,11 +44,14 @@ Les inscriptions sont gerer sur [notre site eventbrite.com pour l'évenement](ht
 
 ### Note sur le ticket étudiant / sans emploi
 
-Historiquement le powershell Saturday à toujours été gratuit, et nous voulions continuer ainsi. Cependant l'organisation d'un tel événement a un coût élevé.
+Historiquement le powershell Saturday à toujours été gratuit, et nous voulions continuer ainsi. Cependant l'organisation d'un tel événement a un coût élevé pour les organisateurs.
 
 Nous avons voulu garder la possibilité aux étudiants et aux demandeurs d'emploi d'avoir accès gratuitement à ce savoir d'exception.
-Pour cela que nous avons crée un ticket gratuit spécialement pour couvrir ces scénarios. Nous ferons pas de vérification de carte d'étudiant / sans emploi, mais nous avons restreint le nombre de tickets gratuits.
-Ceci signifie qu'une place prise par une personne, est une place en moins disponible pour les autres. Nous avons essayé de garder le prix de l'évènement au plus bas (21€). Donc nous vous invitons à prendre le ticket participant normale si vous en avez les moyens. Ceci afin d'offrir la possibilité au plus démunis de participer à l'évènement.
+Pour cette raison, nous avons crée un ticket gratuit spécialement couvrant ces scénarios. Nous ferons pas de vérification de carte d'étudiant / sans emploi, mais nous avons restreint le nombre de tickets gratuits.
+
+Ceci signifie qu'une place prise par une personne, est une place en moins disponible pour les autres.
+
+Nous avons essayé de garder le prix de l'évènement au plus bas (21€). Donc nous vous invitons à prendre le ticket participant normale si vous en avez les moyens. Ceci afin d'offrir la possibilité au plus démunis de participer à l'évènement.
 
 Le ticket étudiant donne accès aux même prestations que le ticket `participant standard` (Présentations / nourriture et boissons etc..) à **l'exception du t-shirt**, qui lui n'est pas compris dans le ticket gratuit.
 
