@@ -4,6 +4,8 @@ title: PowerShell Saturday Paris 2019
 bigimg: "/images/headers/Header-2019.jpg"
 ---
 
+<img src="https://raw.githubusercontent.com/FrPSUG/media/master/powershellsat/logo/adil/ps-saturday-paris-simple.png" width="40%">
+
 <b>[francais](/powershellsat-2019) - [english](/powershellsat-2019en)</b>
 
 ![](https://github.com/FrPSUG/frpsug.github.io/raw/master/images/iconfinder_United-Kingdom-flag_32363.png)
