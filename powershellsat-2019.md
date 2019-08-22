@@ -17,7 +17,7 @@ Celui-ci aura lieu a Paris, le **12 Octobre 2019** à partir de 9h00.
 
 * [Location](#location)
 * [Inscription](#inscription)
-* [Proposer une presentation](#proposer-une-presentation)
+* [Speakers](#Speakers)
 * [Sponsors](#sponsors)
 * [Agenda](#agenda)
 
@@ -57,20 +57,15 @@ Le ticket étudiant donne accès aux même prestations que le ticket `participan
 
 <hr>
 
-## Proposer une presentation
+## Speakers
 
-Le Call for speaker est maintenant fermé.
+### Proposer une session
 
-Des sessions sont encore disponible pour les lightning demos.
-Les lightning demos sont des courtes présentations où vous pouvez démontrer quelques chose ou présenter une technique. Cela peut être une présentation ou juste une démo. Les seules règles: que cela ne dépasse pas 10 minutes et avoir un lien avec PowerShell.
-Vous pouvez soumètre votre proposition [ici](https://forms.gle/2UbRtkfxN3rHWmzK9)
+**Le Call for speaker est maintenant fermé.** Agenda disponible plus bas.
 
-### Presentation
+* 45 min presentation + 5 minutes Q/A
 
-* 45 min presentation + 5 minutes for Q/A
-* SVP partager le contenu de votre presentation (ou un lien) sur [notre github](https://github.com/FrPSUG/Presentations).
-
-#### Sujets des presentations
+<u>Sujets:</u>
 
 * Cloud (AWS, Azure, GCP)
 * DevOps & SRE
@@ -78,21 +73,35 @@ Vous pouvez soumètre votre proposition [ici](https://forms.gle/2UbRtkfxN3rHWmzK
 * Advanced PowerShell
 * PowerShell & DevOps
 
+### Proposer une lightning demo
+
+* 10 min ou moins + 2 minutes Q/A
+
+Des sessions sont encore disponible pour les lightning demos.
+Les lightning demos sont des courtes présentations où vous pouvez démontrer quelques chose ou présenter une technique. Cela peut être une présentation ou juste une démo. Les seules règles: que cela ne dépasse pas 10 minutes et avoir un lien avec PowerShell.
+
+Vous pouvez soumètre votre proposition [ici](https://forms.gle/2UbRtkfxN3rHWmzK9)
+
+### PowerPoint / Partage du contenu
+
+* SVP utiliser le template mise a disposition.
+* Partager le contenu de votre presentation (ou un lien) sur [notre github](https://github.com/FrPSUG/Presentations).
+  
 <hr>
 
-# Sponsors
+## Sponsors
 
 Merci a tous nos sponsors! Nous remercions chaleureusement tous ses sponsors qui par leur soutien et leur fidélité nous permettent d'organiser ce type d'evenement.
 
-## Sponsors Platinium
+### Sponsors Platinium
 
 [<img src="/images/sponsors/scriptrunner.png" width="50%">](https://www.scriptrunner.com/)
 [<img src="/images/sponsors/metsys.png" width="35%">](https://www.metsys.fr/)
 
-## Sponsors Gold
+### Sponsors Gold
 [<img src="/images/sponsors/cellenza_.png" width="30%">](https://www.cellenza.com/)
 
-## Sponsors Silver
+### Sponsors Silver
 [<img src="/images/sponsors/chocolatey.png" width="30%">](https://chocolatey.org/)
 
 
@@ -100,6 +109,6 @@ Si vous souhaitez soutenir notre evenement, voir [la page sponsors](/pssat2019/s
 
 <hr>
 
-# Agenda
+## Agenda
 
 {% include_relative powershellsat-2019-agenda.md %}
