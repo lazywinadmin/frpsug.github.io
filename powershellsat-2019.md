@@ -23,7 +23,7 @@ Celui-ci aura lieu a Paris, le **12 Octobre 2019** à partir de 9h00.
 
 <hr>
 
-## Sponsors
+# Sponsors
 
 Merci a tous nos sponsors! Nous remercions chaleureusement tous ses sponsors qui par leur soutien et leur fidélité nous permettent d'organiser ce type d'evenement.
 
@@ -43,7 +43,7 @@ Si vous souhaitez soutenir notre evenement, voir [la page sponsors](/pssat2019/s
 
 <hr>
 
-## Location
+# Location
 
 Cellenza - 156 Boulevard Haussmann, 75008 Paris, France [Google Maps](https://goo.gl/maps/fww4JUjUByjLzwWL8)
 
@@ -51,7 +51,7 @@ Cellenza - 156 Boulevard Haussmann, 75008 Paris, France [Google Maps](https://go
 
 <hr>
 
-## Inscription
+# Inscription
 
 Les inscriptions sont gerer sur [notre site eventbrite.com pour l'évenement](https://pssatparis2019.eventbrite.com)
 
@@ -77,7 +77,7 @@ Le ticket étudiant donne accès aux même prestations que le ticket `participan
 
 <hr>
 
-## Speakers
+# Speakers
 
 ### Proposer une session
 
@@ -109,6 +109,6 @@ Vous pouvez soumètre votre proposition [ici](https://forms.gle/2UbRtkfxN3rHWmzK
   
 <hr>
 
-## Agenda
+# Agenda
 
 {% include_relative powershellsat-2019-agenda.md %}
