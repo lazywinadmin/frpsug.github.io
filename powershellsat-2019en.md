@@ -54,7 +54,7 @@ Cellenza - 156 Boulevard Haussmann, 75008 Paris, France [Google Maps](https://go
 
 Registration is via our [eventbrite.com event page](https://pssatparis2019.eventbrite.com).
 
-**Registration closing date: Sunday 22nd of September 2019**
+<font color="blue">Registration closing date: Sunday 22nd of September 2019</font>
 
 <u>Two tickets types are available to you:</u>
 
@@ -77,10 +77,9 @@ Note that the student/unemployed ticket give access to same content as the regul
 # Speakers
 
 ### Submit a session
+<font color="red">Call for speaker closed</font>
 
-**The call for speakers is now closed.**
-
-* 45 min session + 5 minutes Q/A
+<u>Format:</u> 45 min session + 5 minutes Q/A
 
 <u>Topics:</u>
 
@@ -91,8 +90,9 @@ Note that the student/unemployed ticket give access to same content as the regul
 * PowerShell & DevOps
 
 ### Submit a lightning demo
+<font color="green">Call for speaker open</font>
 
-* 10 min max + 2 minutes Q/A
+<u>Format:</u> 10 min max + 2 minutes Q/A
 
 Some slots are still available for lightning demos happening during the lunch time.
 
