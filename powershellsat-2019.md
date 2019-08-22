@@ -20,6 +20,7 @@ Celui-ci aura lieu a Paris, le **12 Octobre 2019** à partir de 9h00.
 * [Inscription](#inscription)
 * [Speakers](#Speakers)
 * [Agenda](#agenda)
+* [Enregistrement](#Enregistrement-des-sessions)
 
 <hr>
 
@@ -114,3 +115,8 @@ Vous pouvez soumètre votre proposition [ici](https://forms.gle/2UbRtkfxN3rHWmzK
 # Agenda
 
 {% include_relative powershellsat-2019-agenda.md %}
+
+# Enregistrement des sessions
+
+Afin de pouvoir ultérieurement visionner les presentations et de partager le contenu avec la grande audience possible, cette année nous tenrerons d'enregistrer chaque session. Celles-ci seront par la suite publier sur notre channel Youtube. Veuillez prendre note que nous ne pouvons garantir que les enregistrements auront lieu.
+
