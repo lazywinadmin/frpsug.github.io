@@ -20,6 +20,7 @@ It will be held in Paris on the **12th of October 2019** from 9:00am.
 * [Registration](#registration)
 * [Speakers](#speakers)
 * [Agenda](#agenda)
+* [Recording](#recording-of-the-sessions)
 
 <hr>
 
@@ -110,3 +111,6 @@ You can submit a proposal [here](https://forms.gle/2UbRtkfxN3rHWmzK9)
 
 {% include_relative powershellsat-2019-agenda.md %}
 
+# Recording of the sessions
+
+In order to be able to later view the presentations and to share the content with people who can't attend, this year we will try to record each session. These will later be published on our Youtube channel. Please note that we can not guarantee that the recordings will take place.
