@@ -80,10 +80,10 @@ Le ticket étudiant donne accès aux même prestations que le ticket `participan
 # Speakers
 
 ### Proposer une session
-<font color="red">
-Le Call for speaker est maintenant fermé. </font> Agenda disponible plus bas.
+<font color="red">Call for speaker fermé</font>
 
-* 45 min presentation + 5 minutes Q/A
+
+<u>Format:</u> 45 min presentation + 5 minutes Q/A
 
 <u>Sujets:</u>
 
@@ -94,11 +94,10 @@ Le Call for speaker est maintenant fermé. </font> Agenda disponible plus bas.
 * PowerShell & DevOps
 
 ### Proposer une lightning demo
+<font color="green">Call for speaker ouvert</font>
 
-<font color="green">
-Le Call for speaker ouvert. </font>
 
-* 10 min ou moins + 2 minutes Q/A
+<u>Format</u>: 10 min ou moins + 2 minutes Q/A
 
 Des sessions sont encore disponible pour les lightning demos.
 Les lightning demos sont des courtes présentations où vous pouvez démontrer quelques chose ou présenter une technique. Cela peut être une présentation ou juste une démo. Les seules règles: que cela ne dépasse pas 10 minutes et avoir un lien avec PowerShell.
