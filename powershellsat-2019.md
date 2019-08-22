@@ -118,5 +118,5 @@ Vous pouvez soumètre votre proposition [ici](https://forms.gle/2UbRtkfxN3rHWmzK
 
 # Enregistrement des sessions
 
-Afin de pouvoir ultérieurement visionner les presentations et de partager le contenu avec la grande audience possible, cette année nous tenrerons d'enregistrer chaque session. Celles-ci seront par la suite publier sur notre channel Youtube. Veuillez prendre note que nous ne pouvons garantir que les enregistrements auront lieu.
+Afin de pouvoir ultérieurement visionner les presentations et de partager le contenu avec la grande audience possible, cette année nous tenterons d'enregistrer chaque session. Celles-ci seront par la suite publier sur notre channel Youtube. Veuillez prendre note que nous ne pouvons garantir que les enregistrements auront lieu.
 
