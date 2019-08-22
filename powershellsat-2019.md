@@ -14,6 +14,7 @@ Notre événement '**PowerShell Saturday**' approche a grand pas!
 Celui-ci aura lieu a Paris, le **12 Octobre 2019** à partir de 9h00.
 
 <hr>
+
 * [Sponsors](#sponsors)
 * [Location](#location)
 * [Inscription](#inscription)
