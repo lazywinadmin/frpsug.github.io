@@ -17,7 +17,7 @@ It will be held in Paris on the **12th of October 2019** from 9:00am.
 
 * [Location](#location)
 * [Registration](#registration)
-* [Call for speakers](#call-for-speakers)
+* [Speakers](#speakers)
 * [Sponsors](#sponsors)
 * [Agenda](#agenda)
 
@@ -55,21 +55,15 @@ Note that the student/unemployed ticket give access to same content as the regul
 
 <hr>
 
-## Call for speakers
+## Speakers
+
+### Submit a session
 
 **The call for speakers is now closed.**
 
-Some slots are still available for lightning demos happening during the lunch time.
+* 45 min session + 5 minutes Q/A
 
-Lightning demos are a short session, up to 10 minutes, where you can demonstrate a point or show a technique. It can be a presentation or just the demo. The only rules are, it's related to PowerShell and it fits the 10 minutes format.
-You can submit a proposal [here](https://forms.gle/2UbRtkfxN3rHWmzK9)
-
-### Session format
-
-* 45 min session + 5 minutes for Q/A
-* Please share your session's content (or a link to the content) on [our github](https://github.com/FrPSUG/Presentations).
-
-### Sessions topics
+<u>Topics:</u>
 
 * Cloud (AWS, Azure, GCP)
 * DevOps & SRE
@@ -77,28 +71,42 @@ You can submit a proposal [here](https://forms.gle/2UbRtkfxN3rHWmzK9)
 * Advanced PowerShell
 * PowerShell & DevOps
 
+### Submit a lightning demo
+
+* 10 min max + 2 minutes Q/A
+
+Some slots are still available for lightning demos happening during the lunch time.
+
+Lightning demos are a short session, up to 10 minutes, where you can demonstrate a point or show a technique. It can be a presentation or just the demo. The only rules are, it's related to PowerShell and it fits the 10 minutes format.
+You can submit a proposal [here](https://forms.gle/2UbRtkfxN3rHWmzK9)
+
+
+### PowerPoint / Content sharing
+
+* Please use the Powerpoint template provided for the conference.
+* Please share your session's content (or a link to the content) on [our github](https://github.com/FrPSUG/Presentations).
 <hr>
 
-# Sponsors
+## Sponsors
 
 Thanks to our wonderful sponsors! We extend our sincere appreciation to our sponsors, without whom our event would not be possible.
 
-## Sponsors Platinium
+### Sponsors Platinium
 
 [<img src="/images/sponsors/scriptrunner.png" width="50%">](https://www.scriptrunner.com/)
 [<img src="/images/sponsors/metsys.png" width="35%">](https://www.metsys.fr/)
 
-## Sponsors Gold
+### Sponsors Gold
 [<img src="/images/sponsors/cellenza_.png" width="30%">](https://www.cellenza.com/)
 
-## Sponsors Silver
+### Sponsors Silver
 [<img src="/images/sponsors/chocolatey.png" width="30%">](https://chocolatey.org/)
 
 If you'd like to support the event, please see [the Sponsor page](/pssat2019/sponsors-en).
 
 <hr>
 
-# Agenda
+## Agenda
 
 {% include_relative powershellsat-2019-agenda.md %}
 
