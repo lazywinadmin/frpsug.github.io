@@ -14,6 +14,7 @@ Our event: '**PowerShell Saturday**' is almost here!
 It will be held in Paris on the **12th of October 2019** from 9:00am.
 
 <hr>
+
 * [Sponsors](#sponsors)
 * [Location](#location)
 * [Registration](#registration)
@@ -22,7 +23,7 @@ It will be held in Paris on the **12th of October 2019** from 9:00am.
 
 <hr>
 
-## Sponsors
+# Sponsors
 
 Thanks to our wonderful sponsors! We extend our sincere appreciation to our sponsors, without whom our event would not be possible.
 
@@ -41,7 +42,7 @@ If you'd like to support the event, please see [the Sponsor page](/pssat2019/spo
 
 <hr>
 
-## Location
+# Location
 
 Cellenza - 156 Boulevard Haussmann, 75008 Paris, France [Google Maps](https://goo.gl/maps/fww4JUjUByjLzwWL8)
 
@@ -49,7 +50,7 @@ Cellenza - 156 Boulevard Haussmann, 75008 Paris, France [Google Maps](https://go
 
 <hr>
 
-## Registration
+# Registration
 
 Registration is via our [eventbrite.com event page](https://pssatparis2019.eventbrite.com).
 
@@ -73,7 +74,7 @@ Note that the student/unemployed ticket give access to same content as the regul
 
 <hr>
 
-## Speakers
+# Speakers
 
 ### Submit a session
 
@@ -105,7 +106,7 @@ You can submit a proposal [here](https://forms.gle/2UbRtkfxN3rHWmzK9)
 * Please share your session's content (or a link to the content) on [our github](https://github.com/FrPSUG/Presentations).
 <hr>
 
-## Agenda
+# Agenda
 
 {% include_relative powershellsat-2019-agenda.md %}
 
