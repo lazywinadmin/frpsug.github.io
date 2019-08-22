@@ -20,7 +20,7 @@ Celui-ci aura lieu a Paris, le **12 Octobre 2019** à partir de 9h00.
 * [Inscription](#inscription)
 * [Speakers](#Speakers)
 * [Agenda](#agenda)
-* [Enregistrement](#Enregistrement-des-sessions)
+* [Enregistrement](#enregistrement-des-sessions)
 
 <hr>
 
