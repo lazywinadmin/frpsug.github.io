@@ -55,7 +55,7 @@ Cellenza - 156 Boulevard Haussmann, 75008 Paris, France [Google Maps](https://go
 
 Les inscriptions sont gerer sur [notre site eventbrite.com pour l'évenement](https://pssatparis2019.eventbrite.com)
 
-**Fermeture des inscriptions le 22 Septembre 2019**
+<font color="blue">Fermeture des inscriptions le 22 Septembre 2019</font>
 
 <u>Deux types de tickets sont disponibles:</u>
 
@@ -80,8 +80,8 @@ Le ticket étudiant donne accès aux même prestations que le ticket `participan
 # Speakers
 
 ### Proposer une session
-
-**Le Call for speaker est maintenant fermé.** Agenda disponible plus bas.
+<font color="red">
+Le Call for speaker est maintenant fermé. </font> Agenda disponible plus bas.
 
 * 45 min presentation + 5 minutes Q/A
 
@@ -94,6 +94,9 @@ Le ticket étudiant donne accès aux même prestations que le ticket `participan
 * PowerShell & DevOps
 
 ### Proposer une lightning demo
+
+<font color="green">
+Le Call for speaker ouvert. </font>
 
 * 10 min ou moins + 2 minutes Q/A
 
