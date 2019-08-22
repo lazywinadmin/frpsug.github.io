@@ -14,12 +14,31 @@ Notre événement '**PowerShell Saturday**' approche a grand pas!
 Celui-ci aura lieu a Paris, le **12 Octobre 2019** à partir de 9h00.
 
 <hr>
-
+* [Sponsors](#sponsors)
 * [Location](#location)
 * [Inscription](#inscription)
 * [Speakers](#Speakers)
-* [Sponsors](#sponsors)
 * [Agenda](#agenda)
+
+<hr>
+
+## Sponsors
+
+Merci a tous nos sponsors! Nous remercions chaleureusement tous ses sponsors qui par leur soutien et leur fidélité nous permettent d'organiser ce type d'evenement.
+
+### Sponsors Platinium
+
+[<img src="/images/sponsors/scriptrunner.png" width="50%">](https://www.scriptrunner.com/)
+[<img src="/images/sponsors/metsys.png" width="35%">](https://www.metsys.fr/)
+
+### Sponsors Gold
+[<img src="/images/sponsors/cellenza_.png" width="30%">](https://www.cellenza.com/)
+
+### Sponsors Silver
+[<img src="/images/sponsors/chocolatey.png" width="30%">](https://chocolatey.org/)
+
+
+Si vous souhaitez soutenir notre evenement, voir [la page sponsors](/pssat2019/sponsors-fr).
 
 <hr>
 
@@ -87,26 +106,6 @@ Vous pouvez soumètre votre proposition [ici](https://forms.gle/2UbRtkfxN3rHWmzK
 * SVP utiliser le template mise a disposition.
 * Partager le contenu de votre presentation (ou un lien) sur [notre github](https://github.com/FrPSUG/Presentations).
   
-<hr>
-
-## Sponsors
-
-Merci a tous nos sponsors! Nous remercions chaleureusement tous ses sponsors qui par leur soutien et leur fidélité nous permettent d'organiser ce type d'evenement.
-
-### Sponsors Platinium
-
-[<img src="/images/sponsors/scriptrunner.png" width="50%">](https://www.scriptrunner.com/)
-[<img src="/images/sponsors/metsys.png" width="35%">](https://www.metsys.fr/)
-
-### Sponsors Gold
-[<img src="/images/sponsors/cellenza_.png" width="30%">](https://www.cellenza.com/)
-
-### Sponsors Silver
-[<img src="/images/sponsors/chocolatey.png" width="30%">](https://chocolatey.org/)
-
-
-Si vous souhaitez soutenir notre evenement, voir [la page sponsors](/pssat2019/sponsors-fr).
-
 <hr>
 
 ## Agenda
