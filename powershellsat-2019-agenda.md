@@ -14,7 +14,9 @@
     <td style="text-align:center"> <b>Room A</b></td> <td style="text-align:center"> <b>Room B</b></td>
   </tr>
     <tr>
-    <td> Platinium Keynote</td> <td> <b>Bartosz Bielawski</b><Br>
+    <td> <b>Heiko Brenn</b><br/>
+    How To Make #PowerShell A Real Solution in 5 Steps with <b>@Script_Runner</b>
+    </td> <td> <b>Bartosz Bielawski</b><Br>
     Authoring class based DSC resources – notes from the field
     </td>
   </tr>
