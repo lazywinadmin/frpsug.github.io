@@ -95,7 +95,7 @@ Le ticket étudiant donne accès aux même prestations que le ticket `participan
 * PowerShell & DevOps
 
 ### Proposer une lightning demo
-<font color="green">Call for speaker ouvert</font>
+<font color="green">Call for speaker ouvert : Fin le __27 septembre 2019__ </font>
 
 
 <u>Format</u>: 10 min ou moins + 2 minutes Q/A
