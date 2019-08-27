@@ -91,7 +91,7 @@ Note that the student/unemployed ticket give access to same content as the regul
 * PowerShell & DevOps
 
 ### Submit a lightning demo
-<font color="green">Call for speaker open</font>
+<font color="green">Call for speaker open : end of __September 27, 2019__</font>
 
 <u>Format:</u> 10 min max + 2 minutes Q/A
 
