@@ -43,7 +43,7 @@ Thanks to our wonderful sponsors! We extend our sincere appreciation to our spon
 </p>
 
 ### Sponsors Gold
-[<img src="/images/sponsors/cellenza_.png" width="30%">](https://www.cellenza.com/)
+
 
 ### Sponsors Silver
 [<img src="/images/sponsors/chocolatey.png" width="30%">](https://chocolatey.org/)
