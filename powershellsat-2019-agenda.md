@@ -52,7 +52,10 @@ Créer des interfaces graphiques Metro design pour vos applications
     <td style="text-align:center"><b>Room A</b></td> <td style="text-align:center"> <b>Room B</b></td>
   </tr>
     <tr>
-    <td>Platinium Keynote</td> <td> <b>Amanda Debler</b><br/>
+    <td>
+<b>Jean-Yves TRARBACH</B> 
+  @Metsysgroup
+</td> <td> <b>Amanda Debler</b><br/>
     Docker for Windows Admins</td>
   </tr>
  <tr>
