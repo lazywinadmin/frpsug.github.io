@@ -34,13 +34,16 @@ Merci a tous nos sponsors! Nous remercions chaleureusement tous ses sponsors qui
 <a href="https://www.scriptrunner.com/en/"><img src="https://frpsug.github.io/images/sponsors/ScriptRunner.png" width="30%" title="ScriptRunner" alt="ScriptRunner"></a>
 </p>
 
+
 <p align="center">
 <a href="https://www.cellenza.com/"><img src="https://frpsug.github.io/images/sponsors/cellenza_.png" width="30%" title="Metsys" alt="Metsys"></a>
 </p>
 
+
 <p align="center">
 <a href="https://www.metsys.fr/"><img src="https://frpsug.github.io/images/sponsors/metsys.png" width="30%" title="Cellenza" alt="Cellenza"></a>
 </p>
+
 
 ### Sponsors Gold
 
@@ -50,6 +53,11 @@ Merci a tous nos sponsors! Nous remercions chaleureusement tous ses sponsors qui
 <a href="https://chocolatey.org/"><img src="https://frpsug.github.io/images/sponsors/chocolatey.png" width="30%" title="Chocolatey" alt="Chocolatey"></a>
 </p>
 
+
+### Sponsors Bronze
+<p align="center">
+<a href="https://www.editions-eni.fr/"><img src="https://frpsug.github.io/images/sponsors/Logo_ENI.png" width="20%" title="editions-eni" alt="editions-eni"></a>
+</p>
 
 Si vous souhaitez soutenir notre evenement, voir [la page sponsors](/pssat2019/sponsors-fr).
 
