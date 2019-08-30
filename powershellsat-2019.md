@@ -30,7 +30,7 @@ Merci a tous nos sponsors! Nous remercions chaleureusement tous ses sponsors qui
 
 ### Sponsors Platinium
 
-![ScriptRunner](https://frpsug.github.io/images/sponsors/ScriptRunner.png)
+[![ScriptRunner](https://frpsug.github.io/images/sponsors/ScriptRunner.png)](https://www.scriptrunner.com/en/)
 [<img src="/images/sponsors/metsys.png" width="35%">](https://www.metsys.fr/)
 
 ### Sponsors Gold
