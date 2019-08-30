@@ -35,11 +35,11 @@ Merci a tous nos sponsors! Nous remercions chaleureusement tous ses sponsors qui
 </p>
 
 <p align="center">
-<a href="(https://www.metsys.fr/"><img src="https://frpsug.github.io/images/sponsors/cellenza_.png" title="Metsys" alt="Metsys"></a>
+<a href="https://www.cellenza.com/"><img src="https://frpsug.github.io/images/sponsors/cellenza_.png" title="Metsys" alt="Metsys"></a>
 </p>
 
 <p align="center">
-<a href="(https://www.cellenza.com/"><img src="https://frpsug.github.io/images/sponsors/metsys.png" title="Cellenza" alt="Cellenza"></a>
+<a href="https://www.metsys.fr/"><img src="https://frpsug.github.io/images/sponsors/metsys.png" title="Cellenza" alt="Cellenza"></a>
 </p>
 
 ### Sponsors Gold
