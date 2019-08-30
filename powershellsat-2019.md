@@ -30,8 +30,17 @@ Merci a tous nos sponsors! Nous remercions chaleureusement tous ses sponsors qui
 
 ### Sponsors Platinium
 
-[![ScriptRunner](https://frpsug.github.io/images/sponsors/ScriptRunner.png)](https://www.scriptrunner.com/en/)
-[<img src="/images/sponsors/metsys.png" width="35%">](https://www.metsys.fr/)
+<p align="center">
+  <img src="https://frpsug.github.io/images/sponsors/ScriptRunner.png">
+</p>
+
+<p align="center">
+  <img src="https://frpsug.github.io/images/sponsors/metsys.png">
+</p>
+
+<p align="center">
+  <img src="https://frpsug.github.io/images/sponsors/cellenza_.png">
+</p>
 
 ### Sponsors Gold
 [<img src="/images/sponsors/cellenza_.png" width="30%">](https://www.cellenza.com/)
