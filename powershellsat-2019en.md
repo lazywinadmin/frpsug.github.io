@@ -55,9 +55,6 @@ Thanks to our wonderful sponsors! We extend our sincere appreciation to our spon
 
 
 ### Sponsors Bronze
-<p align="center">
-<a href="https://www.editions-eni.fr/"><img src="https://frpsug.github.io/images/sponsors/Logo_ENI.png" width="20%" title="editions-eni" alt="editions-eni"></a>
-</p>
 
 
 If you'd like to support the event, please see [the Sponsor page](/pssat2019/sponsors-en).
