@@ -123,7 +123,7 @@ Vous pouvez soumètre votre proposition [ici](https://forms.gle/2UbRtkfxN3rHWmzK
 
 ### PowerPoint / Partage du contenu
 
-* SVP utiliser le template mise a disposition.
+* [SVP utiliser le template mise a disposition](https://github.com/FrPSUG/Presentations/tree/master/templates).
 * Partager le contenu de votre presentation (ou un lien) sur [notre github](https://github.com/FrPSUG/Presentations).
   
 <hr>
