@@ -121,7 +121,7 @@ You can submit a proposal [here](https://forms.gle/2UbRtkfxN3rHWmzK9)
 
 ### PowerPoint / Content sharing
 
-* Please use the Powerpoint template provided for the conference.
+* [Please use the Powerpoint template provided for the conference](https://github.com/FrPSUG/Presentations/tree/master/templates).
 * Please share your session's content (or a link to the content) on [our github](https://github.com/FrPSUG/Presentations).
 <hr>
 
