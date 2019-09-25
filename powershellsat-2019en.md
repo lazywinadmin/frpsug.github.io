@@ -77,10 +77,9 @@ Cellenza - 156 Boulevard Haussmann, 75008 Paris, France [Google Maps](https://go
 
 Registration is via our [eventbrite.com event page](https://pssatparis2019.eventbrite.com).
 
-<font color="blue">Early Bird Registration (with T-Shirt) closing date: Sunday 22nd of September 2019</font>
+<p><font color="blue">Early Bird Registration (with T-Shirt) closing date: Sunday 22nd of September 2019</font></p>
 
-
-<font color="red">Final Registration (without T-Shirt) closing date: Friday 11nd of October 2019</font>
+<p><font color="red">Final Registration (without T-Shirt) closing date: Friday 11nd of October 2019</font></p>
 
 <u>Two tickets types are available to you:</u>
 
