@@ -54,6 +54,10 @@ Thanks to our wonderful sponsors! We extend our sincere appreciation to our spon
 </p>
 
 
+<p align="center">
+<a href="https://systemfrontier.com"><img src="https://frpsug.github.io/images/sponsors/System Frontier Logo - Wide.png" width="30%" title="SystemFrontier" alt="SystemFrontier"></a>
+</p>
+
 ### Sponsors Bronze
 
 
@@ -73,7 +77,9 @@ Cellenza - 156 Boulevard Haussmann, 75008 Paris, France [Google Maps](https://go
 
 Registration is via our [eventbrite.com event page](https://pssatparis2019.eventbrite.com).
 
-<font color="blue">Registration closing date: Sunday 22nd of September 2019</font>
+<font color="blue">Early Bird Registration (with T-Shirt) closing date: Sunday 22nd of September 2019</font>
+
+<font color="red">Final Registration (without T-Shirt) closing date: Friday 11nd of October 2019</font>
 
 <u>Two tickets types are available to you:</u>
 
