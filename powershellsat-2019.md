@@ -78,7 +78,7 @@ Les inscriptions sont gerer sur [notre site eventbrite.com pour l'évenement](ht
 
 <font color="blue">Fermeture des inscriptions early bird (avec T-Shirt) le 22 Septembre 2019</font>
 
-<font color="red">Fermeture défnitive des inscriptions (sans T-Shirt) le 11 Octobre 2019</font>
+<font color="red">Fermeture définitive des inscriptions (sans T-Shirt) le 11 Octobre 2019</font>
 
 <u>Deux types de tickets sont disponibles:</u>
 
