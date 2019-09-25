@@ -79,6 +79,7 @@ Registration is via our [eventbrite.com event page](https://pssatparis2019.event
 
 <font color="blue">Early Bird Registration (with T-Shirt) closing date: Sunday 22nd of September 2019</font>
 
+
 <font color="red">Final Registration (without T-Shirt) closing date: Friday 11nd of October 2019</font>
 
 <u>Two tickets types are available to you:</u>
