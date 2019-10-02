@@ -45,7 +45,8 @@ Créer des interfaces graphiques Metro design pour vos applications
     <td colspan="2" style="text-align:center">12:30 - 14:00<br/>
     Lunch and Lightning Demos
       <p>Room A 12h40 - 13h00 : Nicolas Baudin avec Gérer les délégations de droit ADDS avec PowerShell</p>
-      <p>Room A 13h00 - 13h20 : Jêrome Bezet-Torres avec FreeNas powershell module</p></td>
+      <p>Room A 13h00 - 13h20 : Jêrome Bezet-Torres avec FreeNas powershell module</p>
+      <p>Room A 13h20 - 13h40 : Kevin Bates avec PSAtlas, an interactive Powershell learning framework</p></td>
      </td> 
   </tr>
  <tr>
