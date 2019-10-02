@@ -43,7 +43,10 @@ Créer des interfaces graphiques Metro design pour vos applications
   </tr>
     <tr>
     <td colspan="2" style="text-align:center">12:30 - 14:00<br/>
-    Lunch and Lightning Demos</td>
+    Lunch and Lightning Demos
+      <p>Room A 12h40 - 13h00 : Nicolas Baudin avec Gérer les délégations de droit ADDS avec PowerShell</p>
+      <p>Room A 13h00 - 13h20 : Jêrome Bezet-Torres avec FreeNas powershell module</p></td>
+     </td> 
   </tr>
  <tr>
     <td colspan="2" style="text-align:center">14:00 - 14:50</td>
