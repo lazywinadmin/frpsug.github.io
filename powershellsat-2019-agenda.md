@@ -57,8 +57,9 @@ Créer des interfaces graphiques Metro design pour vos applications
   </tr>
     <tr>
     <td>
-<b>Jean-Yves TRARBACH</B> 
-  @Metsysgroup
+<b>Damien Van Robaeys</B> 
+  @Metsysgroup</br>
+  Piloter Intune avec PowerShell
 </td> <td> <b>Amanda Debler</b><br/>
     Docker for Windows Admins</td>
   </tr>
