@@ -10,10 +10,13 @@ bigimg: "/images/headers/paris_header.jpg"
 
 ![](https://github.com/FrPSUG/frpsug.github.io/raw/master/images/iconfinder_Saint-Barthelemy-Flag_32318(1).png)
 
-Notre événement '**PowerShell Saturday 2020**' aura lieu a Paris, le **3 Octobre 2020** à partir de 9h00.
+**COVID-19: Nous sommes obliger de reporter le PowerShell Saturday Paris 2020**
 
-Details a venir...
+La pandémie de COVID-19 nous oblige à pratiquer les règles de distanciation sociales et les gestes barrières pour nous aider à limiter la propagation de la maladie et nous ne savons pas quand notre vie reviendra à la normal.
 
+Nous sommes en train de planifier des rencontres en ligne à la place, la première etant à la fin du mois de juin (voir [notre page Meetup](http://frpsug.com/meet)).
+
+Nous mettrons à jour cette page pour vous donner de plus amples informations.
 
 
 <!-- 

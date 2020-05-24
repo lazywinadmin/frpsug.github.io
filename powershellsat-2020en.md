@@ -10,11 +10,15 @@ bigimg: "/images/headers/paris_header.jpg"
 
 ![](https://github.com/FrPSUG/frpsug.github.io/raw/master/images/iconfinder_United-Kingdom-flag_32363.png)
 
-Our event '**PowerShell Saturday 2020**' will be held in Paris on the **3rd of October 2020** from 9:00am.
+**COVID-19: We’re Postponing The Paris PowerShell Saturday 2020**
 
-More details to come...
+The COVID-19 pandemic has led to a need for social distancing to help prevent the spread and as yet we are unsure when life will return to normal.
 
+For this reason, we’ve made the difficult decision to postpone our PS Saturday in Paris this year.
 
+We do plan to organize online events instead starting at the end of June (see our [Meetup page](http://frpsug.com/meet)).
+
+We will update this page to give you information about these virtual events
 
 
 <!-- 
